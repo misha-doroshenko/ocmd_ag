@@ -1,0 +1,181 @@
+/* Team Page Styles */
+
+/* Page Banner */
+.page-banner {
+    padding: 120px 0 60px;
+    background-color: var(--primary-red);
+    color: var(--primary-white);
+    text-align: center;
+}
+
+.page-title {
+    font-size: var(--fs-xl);
+    margin-bottom: var(--space-xs);
+    font-weight: 700;
+}
+
+.page-subtitle {
+    font-size: var(--fs-medium);
+    font-weight: 300;
+}
+
+/* Team Introduction */
+.team-intro {
+    padding: var(--space-lg) 0;
+    background-color: var(--light-gray);
+    text-align: center;
+}
+
+.team-intro .lead-text {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: var(--fs-medium);
+    line-height: 1.7;
+}
+
+/* Team Sections */
+.team-section {
+    padding: var(--space-xl) 0;
+}
+
+.leadership-team {
+    background-color: var(--primary-white);
+}
+
+.consultants-team {
+    background-color: var(--light-gray);
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-lg);
+    margin-top: var(--space-lg);
+}
+
+.team-member {
+    background-color: var(--primary-white);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.consultants-team .team-member {
+    background-color: var(--primary-white);
+}
+
+.team-member:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.member-image {
+    height: 250px;
+    overflow: hidden;
+}
+
+.image-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, var(--primary-red) 0%, var(--dark-red) 100%);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-placeholder::after {
+    content: 'SC';
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 5rem;
+    font-weight: 900;
+}
+
+.member-info {
+    padding: var(--space-md);
+}
+
+.member-name {
+    color: var(--primary-red);
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: var(--space-xs);
+}
+
+.member-title {
+    font-weight: 600;
+    color: var(--dark-gray);
+    margin-bottom: var(--space-sm);
+    font-size: 0.9rem;
+}
+
+.member-bio {
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+/* Join Team Section */
+.join-team-section {
+    padding: var(--space-xl) 0;
+    background-color: var(--primary-red);
+    color: var(--primary-white);
+    text-align: center;
+}
+
+.join-team-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.join-team-content h2 {
+    font-size: var(--fs-large);
+    margin-bottom: var(--space-md);
+}
+
+.join-team-content p {
+    margin-bottom: var(--space-md);
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
+
+.join-team-section .btn {
+    background-color: var(--primary-white);
+    color: var(--primary-red);
+    font-weight: 700;
+    padding: 0.8rem 2rem;
+}
+
+.join-team-section .btn:hover {
+    background-color: var(--light-gray);
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .page-banner {
+        padding: 100px 0 40px;
+    }
+
+    .page-title {
+        font-size: 2.2rem;
+    }
+
+    .team-grid {
+        grid-template-columns: 1fr;
+        gap: var(--space-md);
+    }
+}
+
+@media (max-width: 480px) {
+    .page-banner {
+        padding: 90px 0 30px;
+    }
+
+    .page-title {
+        font-size: 1.8rem;
+    }
+
+    .member-image {
+        height: 200px;
+    }
+}
