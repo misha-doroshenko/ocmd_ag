@@ -1,5 +1,5 @@
 /**
- * Swiss Consulting Website - Main JavaScript
+ * OCMD AG Website - Main JavaScript
  */
 
 document.addEventListener('DOMContentLoaded', function() {
