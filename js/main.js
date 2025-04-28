@@ -68,7 +68,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Language Switching Functionality
     const langLinks = document.querySelectorAll('.language-dropdown a');
-    const currentLang = document.querySelector('.current-lang');
+    const currentLangDesktop = document.querySelector('.current-lang-desktop');
+    const currentLangMobile = document.querySelector('.current-lang-mobile');
+
 
     // Language translations
     const translations = {
@@ -303,8 +305,12 @@ document.addEventListener('DOMContentLoaded', function() {
         localStorage.setItem('preferredLanguage', lang);
 
         // Update current language display
-        if (currentLang) {
-            currentLang.textContent = lang.toUpperCase();
+        if (currentLangDesktop) {
+            currentLangDesktop.textContent = lang.toUpperCase();
+        }
+
+        if (currentLangMobile) {
+            currentLangMobile.textContent = lang.toUpperCase();
         }
 
         // Mark active language in dropdown
@@ -332,11 +338,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add data-i18n attributes to translatable elements
     function initializeI18n() {
         // Navigation
-        const navHomeLinks = document.querySelectorAll('.nav-links li:nth-child(1) a');
-        const navServicesLinks = document.querySelectorAll('.nav-links li:nth-child(2) a');
-        const navExpertiseLinks = document.querySelectorAll('.nav-links li:nth-child(3) a');
-        const navTeamLinks = document.querySelectorAll('.nav-links li:nth-child(4) a');
-        const navContactLinks = document.querySelectorAll('.nav-links li:nth-child(5) a');
+        const navHomeLinks = document.querySelectorAll('.nav-home');
+        const navServicesLinks = document.querySelectorAll('.nav-services');
+        const navExpertiseLinks = document.querySelectorAll('.nav-expertise');
+        const navTeamLinks = document.querySelectorAll('.nav-partners-clients');
+        const navContactLinks = document.querySelectorAll('.nav-contacts');
 
         const footerServicesLinks = document.querySelectorAll('.footer-links li:nth-child(1) a');
         const footerExpertiseLinks = document.querySelectorAll('.footer-links li:nth-child(2) a');

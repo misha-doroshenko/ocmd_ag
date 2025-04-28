@@ -16,7 +16,7 @@
         <div class="container">
             <div class="header-content">
                 <a href="index.html" class="logo">
-                    <h1>OCMD <span>Consulting</span> AG</h1>
+                    <h1>OCMD<span>Consulting</span>AG</h1>
                 </a>
                 <nav class="nav-menu">
                     <button class="nav-toggle" aria-label="Toggle Navigation">
@@ -25,24 +25,42 @@
                         <span></span>
                     </button>
                     <ul class="nav-links">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="index.html#services">Services</a></li>
-                        <li><a href="expertise.html" class="active">Expertise</a></li>
-                        <li><a href="partners_clients.html">Partners & Clients</a></li>
-                        <li><a href="contacts.html">Contacts</a></li>
+                        <li><a href="index.html" class="nav-home">Home</a></li>
+                        <li><a href="index.html#services" class="nav-services">Services</a></li>
+                        <li><a href="expertise.html" class="active nav-expertise">Expertise</a></li>
+                        <li><a href="partners_clients.html" class="nav-partners-clients">Partners & Clients</a></li>
+                        <li><a href="contacts.html" class="nav-contacts">Contacts</a></li>
+                        
+                        <li class="mobile-language-selector">
+                            <div class="language-selector">
+                                <button class="language-toggle" aria-label="Language Menu">
+                                    <span class="current-lang-mobile">EN</span>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <polyline points="6 9 12 15 18 9"></polyline>
+                                    </svg>
+                                </button>
+                                <ul class="language-dropdown">
+                                    <li><a href="#" class="active" data-lang="en">English</a></li>
+                                    <li><a href="#" data-lang="de">Deutsch</a></li>
+                                    <li><a href="#" data-lang="uk">Українська</a></li>
+                                </ul>
+                            </div>
+                        </li>
                     </ul>
-                    <div class="language-selector">
-                        <button class="language-toggle" aria-label="Language Menu">
-                            <span class="current-lang">EN</span>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                <polyline points="6 9 12 15 18 9"></polyline>
-                            </svg>
-                        </button>
-                        <ul class="language-dropdown">
-                            <li><a href="#" class="active" data-lang="en">English</a></li>
-                            <li><a href="#" data-lang="de">Deutsch</a></li>
-                            <li><a href="#" data-lang="uk">Українська</a></li>
-                        </ul>
+                    <div class="desktop-language-selector">
+                        <div class="language-selector">
+                            <button class="language-toggle" aria-label="Language Menu">
+                                <span class="current-lang-desktop">EN</span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                </svg>
+                            </button>
+                            <ul class="language-dropdown">
+                                <li><a href="#" class="active" data-lang="en">English</a></li>
+                                <li><a href="#" data-lang="de">Deutsch</a></li>
+                                <li><a href="#" data-lang="uk">Українська</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </nav>
             </div>

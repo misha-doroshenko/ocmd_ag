@@ -252,7 +252,12 @@ img {
     transform: rotate(180deg);
 }
 
-.current-lang {
+.current-lang-desktop {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.current-lang-mobile {
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -510,6 +515,14 @@ textarea {
     padding-top: var(--space-md);
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
+/* Desktop first */
+.desktop-language-selector {
+    display: block;
+}
+
+.mobile-language-selector {
+    display: none;
+}
 
 /* Media Queries */
 @media (max-width: 1024px) {
@@ -524,6 +537,19 @@ textarea {
         --fs-xl: 2.5rem;
         --fs-large: 2rem;
         --fs-medium: 1.25rem;
+    }
+    .desktop-language-selector {
+        display: none; /* Hide on mobile */
+    }
+
+    .mobile-language-selector {
+        display: grid; /* Show inside mobile menu */
+        margin-top: 1rem; /* Add space if needed */
+    }
+
+    .mobile-language-selector .language-selector {
+        text-align: center;
+        margin: 5px;
     }
 
     .header-content {
