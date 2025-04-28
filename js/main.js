@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_services': 'Services',
             'nav_expertise': 'Expertise',
             'nav_team': 'Partners & Clients',
-            'nav_contact': 'Get In Touch',
+            'nav_contact': 'Contacts',
             'footer_slogan': 'Strategic Consulting for Infrastructure & Business Development.',
 
             // Common sections
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_newsletter': 'Yes, I would like to subscribe to the newsletter',
 
             // Main texts
-            'hero_title': 'Strategic Consulting for Infrastructure & Business Development.',
+            'hero_title': 'Strategic Consulting for Infrastructure & Business Development',
             'lead_text_index': 'Looking to explore new opportunities in Ukraine? We’re here to guide you every step of the way.',
             'description1': 'As a dedicated Swiss consulting firm with a strong focus on Ukraine, we help Swiss businesses confidently enter and grow in one of the most dynamic and rapidly evolving markets in Europe. Even in challenging times, Ukraine offers unique opportunities — and with our local expertise, you can seize them successfully.',
             'description2': 'Though young, our company already supports a growing number of Swiss clients across key sectors. With on-the-ground insights, trusted local partners, and tailor-made solutions, we make your expansion to Ukraine smooth, safe, and strategic.',
@@ -141,6 +141,10 @@ document.addEventListener('DOMContentLoaded', function() {
             'partners_section_title': 'Partners',
             'clients_section_title': 'Clients',
 
+            // Contacts
+            'contacts_title': 'Contacts',
+            'contacts_subtitle': 'Contact us to get more information.'
+
         },
 
         // German translations
@@ -150,7 +154,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_services': 'Dienstleistungen',
             'nav_expertise': 'Fachgebiete',
             'nav_team': 'Partner und Kunden',
-            'nav_contact': 'Kontakt',
+            'nav_contact': 'Kontakte',
             'footer_slogan': 'Strategische Beratung für Infrastruktur und Geschäftsentwicklung.',
 
             // Common sections
@@ -175,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_newsletter': 'Ja, ich möchte den Newsletter abonnieren',
 
             // Main texts
-            'hero_title': 'Strategische Beratung für Infrastruktur und Geschäftsentwicklung.',
+            'hero_title': 'Strategische Beratung für Infrastruktur und Geschäftsentwicklung',
             'lead_text_index': 'Möchten Sie neue Möglichkeiten in der Ukraine erkunden? Wir sind hier, um Sie bei jedem Schritt zu begleiten.',
             'description1': 'Als engagiertes Schweizer Beratungsunternehmen mit starkem Fokus auf die Ukraine unterstützen wir Schweizer Unternehmen dabei, in einem der dynamischsten und sich am schnellsten entwickelnden Märkte Europas erfolgreich Fuß zu fassen und zu wachsen. Auch in herausfordernden Zeiten bietet die Ukraine einzigartige Chancen – und mit unserer lokalen Expertise können Sie diese erfolgreich nutzen.',
             'description2': 'Obwohl noch jung, unterstützt unser Unternehmen bereits eine wachsende Zahl Schweizer Kunden in wichtigen Branchen. Mit praxisnahen Kenntnissen, vertrauenswürdigen lokalen Partnern und maßgeschneiderten Lösungen gestalten wir Ihre Expansion in die Ukraine reibungslos, sicher und strategisch.',
@@ -211,6 +215,10 @@ document.addEventListener('DOMContentLoaded', function() {
             'partners_section_title': 'Partner',
             'clients_section_title': 'Kunden',
 
+            // Contacts
+            'contacts_title': 'Kontakte',
+            'contacts_subtitle': 'Kontaktieren Sie uns, um weitere Informationen zu erhalten.'
+
         },
 
         // Ukrainian translations
@@ -220,7 +228,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_services': 'Послуги',
             'nav_expertise': 'Експертиза',
             'nav_team': 'Партнери і клієнти',
-            'nav_contact': 'Зв\'язатися',
+            'nav_contact': 'Контакти',
             'footer_slogan': 'Стратегічний консалтинг для розвитку інфраструктури та бізнесу.',
 
             // Common sections
@@ -245,7 +253,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_newsletter': 'Так, я хочу підписатися на розсилку',
 
             // Main texts
-            'hero_title': 'Стратегічний консалтинг для розвитку інфраструктури та бізнесу.',
+            'hero_title': 'Стратегічний консалтинг для розвитку інфраструктури та бізнесу',
             'lead_text_index': 'Хочете дослідити нові можливості в Україні? Ми тут, щоб допомогти вам на кожному кроці.',
             'description1': 'Як спеціалізована швейцарська консалтингова фірма, яка зосереджена на Україні, ми допомагаємо швейцарським підприємствам впевнено входити та розвиватися на одному з найдинамічніших ринків Європи, що швидко розвиваються. Навіть у складні часи Україна пропонує унікальні можливості — і з нашим місцевим досвідом ви можете ними успішно скористатися.',
             'description2': 'Незважаючи на те, що наша компанія є молодою, вона вже підтримує все більше швейцарських клієнтів у ключових секторах. Завдяки досвіду на місцях, надійним місцевим партнерам і індивідуальним рішенням ми зробимо вашу експансію в Україну плавною, безпечною та стратегічною.',
@@ -280,6 +288,10 @@ document.addEventListener('DOMContentLoaded', function() {
             'lead_text_partners': 'Наші клієнти та партнери представляють широкий спектр галузей — від бізнесу та фінансів до технологій та операційної діяльності. Їхня різноманітна експертиза та стратегічна співпраця дозволяють нам надавати комплексні та ефективні рішення, адаптовані до реальних викликів.',
             'partners_section_title': 'Партнери',
             'clients_section_title': 'Клієнти',
+
+            // Contacts
+            'contacts_title': 'Контакти',
+            'contacts_subtitle': 'Зв\'яжіться з нами, щоб отримати більше інформації.'
         }
     };
 
@@ -371,6 +383,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 title.setAttribute('data-i18n', 'expertise_title');
             } else if (title.textContent.includes('Our Partners & Clients')) {
                 title.setAttribute('data-i18n', 'partners_and_clients_title');
+            } else if (title.textContent.includes('Contacts')) {
+                title.setAttribute('data-i18n', 'contacts_title');
             }
         });
 
@@ -380,6 +394,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 title.setAttribute('data-i18n', 'expertise_subtitle');
             } else if (title.textContent.includes('Discover the trusted organizations and valued clients we collaborate with.')) {
                 title.setAttribute('data-i18n', 'partners_and_clients_subtitle');
+            } else if (title.textContent.includes('Contact us to get more information.')) {
+                title.setAttribute('data-i18n', 'contacts_subtitle');
             }
         });
         

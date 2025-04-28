@@ -1,0 +1,80 @@
+/* Team Page Styles */
+
+/* Page Banner */
+.full-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+  
+main {
+flex: 1;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.page-banner {
+    padding: 120px 0 60px;
+    background-color: var(--primary-red);
+    color: var(--primary-white);
+    text-align: center;
+}
+
+.page-title {
+    font-size: var(--fs-xl);
+    margin-bottom: var(--space-xs);
+    font-weight: 700;
+}
+
+.page-subtitle {
+    font-size: var(--fs-medium);
+    font-weight: 300;
+}
+
+/* Contact Introduction */
+.contact-intro {
+    padding: var(--space-lg) 0;
+    background-color: var(--primary-white);
+    text-align:left;
+}
+
+.contact-intro .lead-text {
+    max-width: 750px;
+    margin: 0 auto;
+    font-size: var(--fs-medium);
+    line-height: 1.7;
+}
+
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .page-banner {
+        padding: 100px 0 40px;
+    }
+
+    .page-title {
+        font-size: 2.2rem;
+    }
+
+    .team-grid {
+        grid-template-columns: 1fr;
+        gap: var(--space-md);
+    }
+}
+
+@media (max-width: 480px) {
+    .page-banner {
+        padding: 90px 0 30px;
+    }
+
+    .page-title {
+        font-size: 1.8rem;
+    }
+
+    .member-image {
+        height: 200px;
+    }
+}
