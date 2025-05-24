@@ -103,10 +103,9 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_email': 'E-mail',
             'form_phone': 'Phone number',
             'form_message': 'Enter your message here...',
-            'form_newsletter': 'Yes, I would like to subscribe to the newsletter',
 
             // Main texts
-            'hero_title': 'OCMD Consulting AG<br>Strategic Consulting for Business Transformation  and Sustainable Success',
+            'hero_title': 'OCMD Consulting AG<br><br>Strategic Consulting for Business Transformation  and Sustainable Success',
             'lead_text_index': 'Are you a Swiss company eyeing opportunities in Ukraine—or a Ukrainian business planning to establish a presence in Switzerland?<br>OCMD Consulting AG is your strategic partner for both markets',
             'description1': 'As a Swiss-based consulting firm with deep local expertise in Ukraine, we guide Swiss businesses through market entry, expansion, and growth in one of Europe’s most dynamic economies. At the same time, we support Ukrainian companies seeking to open offices, build partnerships, and navigate Swiss regulations with confidence.',
             'description2': 'Despite our young age, we’ve already helped a growing roster of clients on both sides:',
@@ -164,7 +163,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Contacts
             'contacts_title': 'Contacts',
-            'contacts_subtitle': 'Contact us to get more information.'
+            'contacts_subtitle': 'Contact us to get more information.',
+            'questions_title': 'Do you have a question about our services or about your organization?<br>Get in touch with us - we look forward to hearing from you and will be happy to meet you for an initial free consultation'
 
         },
 
@@ -197,10 +197,9 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_email': 'E-Mail',
             'form_phone': 'Telefonnummer',
             'form_message': 'Geben Sie hier Ihre Nachricht ein...',
-            'form_newsletter': 'Ja, ich möchte den Newsletter abonnieren',
 
             // Main texts
-            'hero_title': 'OCMD Consulting AG<br>Strategische Beratung für Business Transformation und nachhaltigen Erfolg',
+            'hero_title': 'OCMD Consulting AG<br><br>Strategische Beratung für Business Transformation und nachhaltigen Erfolg',
             'lead_text_index': 'Sind Sie ein Schweizer Unternehmen, das Chancen in der Ukraine sucht – oder ein ukrainisches Unternehmen, das eine Präsenz in der Schweiz plant?<br>Die OCMD Consulting AG ist Ihr strategischer Partner für beide Märkte',
             'description1': 'Als Schweizer Beratungsunternehmen mit umfassender lokaler Expertise in der Ukraine begleiten wir Schweizer Unternehmen bei Markteintritt, Expansion und Wachstum in einer der dynamischsten Volkswirtschaften Europas. Gleichzeitig unterstützen wir ukrainische Unternehmen bei der Eröffnung von Niederlassungen, dem Aufbau von Partnerschaften und der sicheren Bewältigung der Schweizer Vorschriften.',
             'description2': 'Trotz unserer jungen Unternehmensgeschichte haben wir bereits eine wachsende Zahl von Kunden auf beiden Seiten betreut:',
@@ -258,7 +257,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Contacts
             'contacts_title': 'Kontakte',
-            'contacts_subtitle': 'Kontaktieren Sie uns, um weitere Informationen zu erhalten.'
+            'contacts_subtitle': 'Kontaktieren Sie uns, um weitere Informationen zu erhalten.',
+            'questions_title': 'Sie haben eine Frage zu unseren Leistungen oder zu Ihrer Organisation?<br>Nehmen Sie Kontakt mit uns auf – wir freuen uns auf Ihre Nachricht und treffen uns gerne zu einem ersten kostenlosen Beratungsgespräch mit Ihnen'
 
         },
 
@@ -291,10 +291,9 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_email': 'Електронна пошта',
             'form_phone': 'Номер телефону',
             'form_message': 'Введіть ваше повідомлення тут...',
-            'form_newsletter': 'Так, я хочу підписатися на розсилку',
 
             // Main texts
-            'hero_title': 'OCMD Consulting AG<br>Стратегічний консалтинг для трансформації бізнесу та сталого успіху',
+            'hero_title': 'OCMD Consulting AG<br><br>Стратегічний консалтинг для трансформації бізнесу та сталого успіху',
             'lead_text_index': 'Ви швейцарська компанія, яка розглядає можливості в Україні, чи український бізнес, що планує розширити свою присутність у Швейцарії?<br>OCMD Consulting AG — ваш стратегічний партнер для обох ринків',
             'description1': 'Як швейцарська консалтингова фірма з глибоким досвідом роботи в Україні, ми супроводжуємо швейцарський бізнес у процесі виходу на ринок, розширення та зростання в одній з найдинамічніших економік Європи. Водночас ми підтримуємо українські компанії, які прагнуть відкрити офіси, побудувати партнерські відносини та впевнено орієнтуватися в швейцарському законодавстві.',
             'description2': 'Незважаючи на наш молодий вік, ми вже допомогли зростаючій кількості клієнтів з обох сторін:',
@@ -352,7 +351,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Contacts
             'contacts_title': 'Контакти',
-            'contacts_subtitle': 'Зв\'яжіться з нами, щоб отримати більше інформації.'
+            'contacts_subtitle': 'Зв\'яжіться з нами, щоб отримати більше інформації.',
+            'questions_title': 'У вас є питання щодо наших послуг або вашої організації?<br>Зв\'яжіться з нами — ми з нетерпінням чекаємо на вашу відповідь і будемо раді зустрітися з вами для першої безкоштовної консультації.'
         }
     };
 
@@ -571,7 +571,8 @@ document.addEventListener('DOMContentLoaded', function() {
         document.querySelectorAll('.description3').forEach(link => link.setAttribute('data-i18n', 'description3'))
         document.querySelectorAll('.description4').forEach(link => link.setAttribute('data-i18n', 'description4'))
         document.querySelectorAll('.description5').forEach(link => link.setAttribute('data-i18n', 'description5'))
-        document.querySelectorAll('.section-subtitle').forEach(link => link.setAttribute('data-i18n', 'values_vision_subtitle'))
+        document.querySelectorAll('.section-subtitle-values-vision').forEach(link => link.setAttribute('data-i18n', 'values_vision_subtitle'))
+        document.querySelectorAll('.section-subtitle-contacts-questions').forEach(link => link.setAttribute('data-i18n', 'questions_title'))
         document.querySelectorAll('.tagline').forEach(link => link.setAttribute('data-i18n', 'footer_slogan'))
 
 
@@ -594,14 +595,12 @@ document.addEventListener('DOMContentLoaded', function() {
         const emailInput = document.getElementById('email');
         const phoneInput = document.getElementById('phone');
         const messageInput = document.getElementById('message');
-        const newsletterLabel = document.querySelector('label[for="newsletter"]');
 
         if (firstNameInput) firstNameInput.setAttribute('data-i18n', 'form_first_name');
         if (lastNameInput) lastNameInput.setAttribute('data-i18n', 'form_last_name');
         if (emailInput) emailInput.setAttribute('data-i18n', 'form_email');
         if (phoneInput) phoneInput.setAttribute('data-i18n', 'form_phone');
         if (messageInput) messageInput.setAttribute('data-i18n', 'form_message');
-        if (newsletterLabel) newsletterLabel.setAttribute('data-i18n', 'form_newsletter');
     }
 
     // Initialize i18n
@@ -620,45 +619,6 @@ document.addEventListener('DOMContentLoaded', function() {
             langToggle.classList.remove('active');
         });
     });
-
-    // Handle Contact Form Submission
-    const contactForm = document.getElementById('contactForm');
-
-    if (contactForm) {
-        contactForm.addEventListener('submit', function(e) {
-            e.preventDefault();
-
-            // Get form values
-            const firstName = document.getElementById('firstName').value;
-            const lastName = document.getElementById('lastName').value;
-            const email = document.getElementById('email').value;
-            const phone = document.getElementById('phone').value;
-            const message = document.getElementById('message').value;
-            const newsletter = document.getElementById('newsletter').checked;
-
-            // Simple form validation
-            if (!firstName || !lastName || !email || !message) {
-                alert('Please fill out all required fields');
-                return;
-            }
-
-            // Normally would send this data to a server
-            console.log({
-                firstName,
-                lastName,
-                email,
-                phone,
-                message,
-                newsletter
-            });
-
-            // Show success message
-            alert('Thank you for your message! We will contact you shortly.');
-
-            // Reset form
-            contactForm.reset();
-        });
-    }
 
     // Smooth Scrolling for Navigation Links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {

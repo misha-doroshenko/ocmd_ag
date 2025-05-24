@@ -77,17 +77,44 @@
                 </div>
             </section>
 
-            <section class="contact-intro">
+            <!-- Contact Section -->
+            <section id="contact" class="contact-section">
                 <div class="container">
-                    <ul class="lead-text lead-text-contact">
-                        <li>Email: <a href="mailto:info@ocmd-ag.com">info@ocmd-ag.com</a></li>
-                        <hr>
-                        <li>Phone 1: +41 44 123 45 67</a></li>
-                        <li>Phone 2: +41 44 123 45 62</a></li>
-                        <hr>
-                        <li>Address 1: Bahnhofstrasse 1, 8001 Zürich, Switzerland</li>
-                        <li>Address 2: Bahnhofstrasse 2, 8002 Zürich, Switzerland</li>
-                    </ul>
+                    <p class="section-subtitle section-subtitle-contacts-questions">
+                        Do you have a question about our services or about your organization?<br>Get in touch with us - we look forward to hearing from you and will be happy to meet you for an initial free consultation
+                    </p>
+                    <div class="contact-grid">
+                        <div class="contact-info">
+                                <p><strong>Address:</strong> Bahnhofstrasse 69 8001 Zurich</p>
+                                <p><strong>Phone:</strong> +417373825</p>
+                                <p><strong>Email:</strong> __________</p>
+
+                        </div>
+                        <div class="contact-form">
+                            <form id="contactForm" action="https://formsubmit.co/doroshenko.misha73@gmail.com" method="POST">
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <input name="First Name" type="text" id="firstName" placeholder="First name" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <input name="Last Name" type="text" id="lastName" placeholder="Last name" required>
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <input name="E-mail" type="email" id="email" placeholder="E-mail" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <input name="Phone number" type="text" id="phone" placeholder="Phone number">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <textarea name="Message" id="message" placeholder="Enter your message here..." required></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </section>
         </main>

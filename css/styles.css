@@ -436,6 +436,27 @@ img {
 }
 
 /* Contact Section */
+.contact-section {
+    padding: var(--space-lg) 0;
+    background-color: var(--light-gray);
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-lg);
+    margin-top: var(--space-lg);
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+}
+
+.contact-details {
+    margin-top: var(--space-md);
+}
 
 .contact-form form {
     display: flex;
@@ -465,16 +486,6 @@ input, textarea {
 textarea {
     height: 150px;
     resize: vertical;
-}
-
-.checkbox-group {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.checkbox-group input {
-    width: auto;
 }
 
 /* Footer */
