@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_expertise': 'Expertise',
             'nav_team': 'Partners & Clients',
             'nav_contact': 'Contacts',
-            'footer_slogan': 'Strategic Consulting for Infrastructure & Business Development.',
+            'footer_slogan': 'Strategic Consulting for Infrastructure & Business Development',
 
             // Common sections
             'section_values_vision': 'OUR VISION & VALUES',
@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Expertise texts
             'expertise_title': 'Our Expertise',
             'expertise_subtitle': 'Specialized knowledge that drives results',
-            'lead_text_expertise': 'At OCMD AG, we combine industry knowledge with sector-specific and advisory expertise to deliver tailored solutions that address your unique challenges and opportunities. Our consultants bring hands-on experience across multiple sectors, ensuring practical advice that creates real value.',
+            'lead_text_expertise': 'At OCMD Consulting AG, we combine industry knowledge with sector-specific and advisory expertise to deliver tailored solutions that address your unique challenges and opportunities. Our consultants bring hands-on experience across multiple sectors, ensuring practical advice that creates real value',
             'industy_expertise_title': 'Industry Expertise',
             'sector_specific_expertise_title': 'Sector-Specific & Advisory Expertise',
             'infrastructure_and_reconstruction_card_title': 'Infrastructure & Reconstruction',
@@ -156,15 +156,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Partners and Clients
             'partners_and_clients_title': 'Our Partners & Clients',
-            'partners_and_clients_subtitle': 'Discover the trusted organizations and valued clients we collaborate with.',
-            'lead_text_partners': 'Our clients and partners represent a wide range of industries—from business and finance to technology and operations. Their diverse expertise and strategic collaboration enable us to deliver comprehensive, impactful solutions tailored to real-world challenges.',
+            'partners_and_clients_subtitle': 'Discover the trusted organizations and valued clients we collaborate with',
+            'lead_text_partners': 'Our clients and partners represent a wide range of industries—from business and finance to technology and operations. Their diverse expertise and strategic collaboration enable us to deliver comprehensive, impactful solutions tailored to real-world challenges',
             'partners_section_title': 'Partners',
             'clients_section_title': 'Clients',
             'member_bio': 'Headquartered in Zurich, Allegra Law is offering a broad range of legal services, including banking and finance, capital markets, corporate M&A, data and blockchain technology, litigation, international arbitration, and employment and immigration law. With substantial expertise in financial markets law, Allegra Law advises both domestic and international clients on capital markets issues. Allegra Law’s corporate practice is particularly strong in cross-border M&A transactions, while its dispute resolution team handles commercial and financial litigation, arbitration, mediation, and negotiation, advocating for clients before Swiss authorities, national and international courts, and arbitral tribunals.',
 
             // Contacts
             'contacts_title': 'Contacts',
-            'contacts_subtitle': 'Contact us to get more information.',
+            'contacts_subtitle': 'Contact us to get more information',
             'questions_title': 'Do you have a question about our services or about your organization?<br>Get in touch with us - we look forward to hearing from you and will be happy to meet you for an initial free consultation'
 
         },
@@ -177,7 +177,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_expertise': 'Fachgebiete',
             'nav_team': 'Partner und Kunden',
             'nav_contact': 'Kontakte',
-            'footer_slogan': 'Strategische Beratung für Infrastruktur und Geschäftsentwicklung.',
+            'footer_slogan': 'Strategische Beratung für Infrastruktur und Geschäftsentwicklung',
 
             // Common sections
             'section_values_vision': 'UNSERE VISION & WERTE',
@@ -229,7 +229,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Expertise texts
             'expertise_title': 'Unsere Expertise',
             'expertise_subtitle': 'Spezialwissen, das Ergebnisse bringt',
-            'lead_text_expertise': 'Bei der OCMD AG kombinieren wir Branchenwissen mit branchenspezifischer Beratungskompetenz, um maßgeschneiderte Lösungen für Ihre individuellen Herausforderungen und Chancen zu entwickeln. Unsere Berater verfügen über praktische Erfahrung in verschiedenen Branchen und gewährleisten so praxisnahe Beratung, die echten Mehrwert schafft.',
+            'lead_text_expertise': 'Bei der OCMD Consulting AG kombinieren wir Branchenwissen mit branchenspezifischer Beratungskompetenz, um maßgeschneiderte Lösungen für Ihre individuellen Herausforderungen und Chancen zu entwickeln. Unsere Berater verfügen über praktische Erfahrung in verschiedenen Branchen und gewährleisten so praxisnahe Beratung, die echten Mehrwert schafft',
             'industy_expertise_title': 'Industrieexpertise',
             'sector_specific_expertise_title': 'Branchenspezifische & Beratungs­expertise',
             'infrastructure_and_reconstruction_card_title': 'Infrastruktur & Wiederaufbau',
@@ -251,15 +251,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Partners and Clients
             'partners_and_clients_title': 'Unsere Partner & Kunden',
-            'partners_and_clients_subtitle': 'Entdecken Sie die vertrauenswürdigen Organisationen und geschätzten Kunden, mit denen wir zusammenarbeiten.',
-            'lead_text_partners': 'Unsere Kunden und Partner stammen aus unterschiedlichsten Branchen – von Wirtschaft und Finanzen bis hin zu Technologie und Betrieb. Ihre vielfältige Expertise und strategische Zusammenarbeit ermöglichen es uns, umfassende und wirkungsvolle Lösungen für reale Herausforderungen bereitzustellen.',
+            'partners_and_clients_subtitle': 'Entdecken Sie die vertrauenswürdigen Organisationen und geschätzten Kunden, mit denen wir zusammenarbeiten',
+            'lead_text_partners': 'Unsere Kunden und Partner stammen aus unterschiedlichsten Branchen – von Wirtschaft und Finanzen bis hin zu Technologie und Betrieb. Ihre vielfältige Expertise und strategische Zusammenarbeit ermöglichen es uns, umfassende und wirkungsvolle Lösungen für reale Herausforderungen bereitzustellen',
             'partners_section_title': 'Partner',
             'clients_section_title': 'Kunden',
             'member_bio': 'Allegra Law mit Hauptsitz in Zürich bietet ein breites Spektrum an Rechtsdienstleistungen an, darunter Bank- und Finanzrecht, Kapitalmärkte, Unternehmensfusionen und -übernahmen, Daten- und Blockchain-Technologie, Prozessführung, internationale Schiedsgerichtsbarkeit sowie Arbeits- und Einwanderungsrecht. Dank umfassender Expertise im Finanzmarktrecht berät Allegra Law sowohl inländische als auch internationale Mandanten in Kapitalmarktfragen. Die gesellschaftsrechtliche Praxis von Allegra Law ist besonders stark in grenzüberschreitenden Fusionen und Übernahmen, während das Streitbeilegungsteam Handels- und Finanzstreitigkeiten, Schiedsverfahren, Mediationen und Verhandlungen bearbeitet und Mandanten vor Schweizer Behörden, nationalen und internationalen Gerichten sowie Schiedsgerichten vertritt.',
 
             // Contacts
             'contacts_title': 'Kontakte',
-            'contacts_subtitle': 'Kontaktieren Sie uns, um weitere Informationen zu erhalten.',
+            'contacts_subtitle': 'Kontaktieren Sie uns, um weitere Informationen zu erhalten',
             'questions_title': 'Sie haben eine Frage zu unseren Leistungen oder zu Ihrer Organisation?<br>Nehmen Sie Kontakt mit uns auf – wir freuen uns auf Ihre Nachricht und treffen uns gerne zu einem ersten kostenlosen Beratungsgespräch mit Ihnen'
 
         },
@@ -272,7 +272,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_expertise': 'Експертиза',
             'nav_team': 'Партнери і клієнти',
             'nav_contact': 'Контакти',
-            'footer_slogan': 'Стратегічний консалтинг для розвитку інфраструктури та бізнесу.',
+            'footer_slogan': 'Стратегічний консалтинг для розвитку інфраструктури та бізнесу',
 
             // Common sections
             'section_values_vision': 'НАШЕ БАЧЕННЯ ТА ЦІННОСТІ',
@@ -324,7 +324,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Expertise texts
             'expertise_title': 'Наша Експертиза',
             'expertise_subtitle': 'Спеціалізовані знання, які забезпечують результати',
-            'lead_text_expertise': 'У OCMD AG ми поєднуємо галузеві знання з галузевими та консультаційними досвідом, щоб надавати індивідуальні рішення, які відповідають вашим унікальним викликам і можливостям. Наші консультанти мають практичний досвід у різних секторах, забезпечуючи практичні поради, які створюють реальну цінність.',
+            'lead_text_expertise': 'У OCMD Consulting AG ми поєднуємо галузеві знання з галузевими та консультаційними досвідом, щоб надавати індивідуальні рішення, які відповідають вашим унікальним викликам і можливостям. Наші консультанти мають практичний досвід у різних секторах, забезпечуючи практичні поради, які створюють реальну цінність',
             'industy_expertise_title': 'Експертиза в галузі інфраструктури та промисловості',
             'sector_specific_expertise_title': 'Секторальна та консультаційна експертиза',
             'infrastructure_and_reconstruction_card_title': 'Інфраструктура та відбудова',
@@ -346,15 +346,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Partners and Clients
             'partners_and_clients_title': 'Наші партнери та клієнти',
-            'partners_and_clients_subtitle': 'Познайомтеся з надійними організаціями та цінними клієнтами, з якими ми співпрацюємо.',
-            'lead_text_partners': 'Наші клієнти та партнери представляють широкий спектр галузей — від бізнесу та фінансів до технологій та операційної діяльності. Їхня різноманітна експертиза та стратегічна співпраця дозволяють нам надавати комплексні та ефективні рішення, адаптовані до реальних викликів.',
+            'partners_and_clients_subtitle': 'Познайомтеся з надійними організаціями та цінними клієнтами, з якими ми співпрацюємо',
+            'lead_text_partners': 'Наші клієнти та партнери представляють широкий спектр галузей — від бізнесу та фінансів до технологій та операційної діяльності. Їхня різноманітна експертиза та стратегічна співпраця дозволяють нам надавати комплексні та ефективні рішення, адаптовані до реальних викликів',
             'partners_section_title': 'Партнери',
             'clients_section_title': 'Клієнти',
             'member_bio': 'Штаб-квартира компанії Allegra Law знаходиться в Цюриху, вона пропонує широкий спектр юридичних послуг, включаючи банківську справу та фінанси, ринки капіталу, корпоративні злиття та поглинання, технології даних та блокчейн, судові процеси, міжнародний арбітраж, а також трудове та імміграційне право. Маючи значний досвід у сфері права фінансових ринків, Allegra Law консультує як вітчизняних, так і міжнародних клієнтів з питань ринків капіталу. Корпоративна практика Allegra Law особливо сильна в транскордонних операціях зі злиття та поглинання, а її команда з вирішення спорів займається комерційними та фінансовими судовими процесами, арбітражем, медіацією та переговорами, представляючи клієнтів перед швейцарськими органами влади, національними та міжнародними судами, а також арбітражними трибуналами.',
 
             // Contacts
             'contacts_title': 'Контакти',
-            'contacts_subtitle': 'Зв\'яжіться з нами, щоб отримати більше інформації.',
+            'contacts_subtitle': 'Зв\'яжіться з нами, щоб отримати більше інформації',
             'questions_title': 'У вас є питання щодо наших послуг або вашої організації?<br>Зв\'яжіться з нами — ми з нетерпінням чекаємо на вашу відповідь і будемо раді зустрітися з вами для першої безкоштовної консультації.'
         }
     };
@@ -410,9 +410,10 @@ document.addEventListener('DOMContentLoaded', function() {
         const navTeamLinks = document.querySelectorAll('.nav-partners-clients');
         const navContactLinks = document.querySelectorAll('.nav-contacts');
 
-        const footerServicesLinks = document.querySelectorAll('.footer-links li:nth-child(1) a');
-        const footerExpertiseLinks = document.querySelectorAll('.footer-links li:nth-child(2) a');
-        const footerTeamLinks = document.querySelectorAll('.footer-links li:nth-child(3) a');
+        const footerExpertiseLinks = document.querySelectorAll('.footer-links li:nth-child(1) a');
+        const footerTeamLinks = document.querySelectorAll('.footer-links li:nth-child(2) a');
+        const footerContactsLinks = document.querySelectorAll('.footer-links li:nth-child(3) a');
+
 
         navHomeLinks.forEach(link => link.setAttribute('data-i18n', 'nav_home'));
         navServicesLinks.forEach(link => link.setAttribute('data-i18n', 'nav_services'));
@@ -420,9 +421,9 @@ document.addEventListener('DOMContentLoaded', function() {
         navTeamLinks.forEach(link => link.setAttribute('data-i18n', 'nav_team'));
         navContactLinks.forEach(link => link.setAttribute('data-i18n', 'nav_contact'));
 
-        footerServicesLinks.forEach(link => link.setAttribute('data-i18n', 'nav_services'));
         footerExpertiseLinks.forEach(link => link.setAttribute('data-i18n', 'nav_expertise'));
         footerTeamLinks.forEach(link => link.setAttribute('data-i18n', 'nav_team'));
+        footerContactsLinks.forEach(link => link.setAttribute('data-i18n', 'nav-contacts'));
 
         // Section titles
         document.querySelectorAll('.section-title').forEach(title => {
