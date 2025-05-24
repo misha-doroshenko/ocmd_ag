@@ -47,8 +47,9 @@
 }
 
 .team-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* <-- This centers items horizontally */
     gap: var(--space-lg);
     margin-top: var(--space-lg);
 }
@@ -59,6 +60,9 @@
     overflow: hidden;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    width: 450px; /* Set exact width */
+    flex: 0 1 450px; /* Prevent items from shrinking/growing */
 }
 
 .consultants-team .team-member {
@@ -83,13 +87,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.image-placeholder::after {
-    content: 'SC';
-    color: rgba(255, 255, 255, 0.2);
-    font-size: 5rem;
-    font-weight: 900;
 }
 
 .member-info {

@@ -160,6 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'lead_text_partners': 'Our clients and partners represent a wide range of industries—from business and finance to technology and operations. Their diverse expertise and strategic collaboration enable us to deliver comprehensive, impactful solutions tailored to real-world challenges.',
             'partners_section_title': 'Partners',
             'clients_section_title': 'Clients',
+            'member_bio': 'Headquartered in Zurich, Allegra Law is offering a broad range of legal services, including banking and finance, capital markets, corporate M&A, data and blockchain technology, litigation, international arbitration, and employment and immigration law. With substantial expertise in financial markets law, Allegra Law advises both domestic and international clients on capital markets issues. Allegra Law’s corporate practice is particularly strong in cross-border M&A transactions, while its dispute resolution team handles commercial and financial litigation, arbitration, mediation, and negotiation, advocating for clients before Swiss authorities, national and international courts, and arbitral tribunals.',
 
             // Contacts
             'contacts_title': 'Contacts',
@@ -254,6 +255,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'lead_text_partners': 'Unsere Kunden und Partner stammen aus unterschiedlichsten Branchen – von Wirtschaft und Finanzen bis hin zu Technologie und Betrieb. Ihre vielfältige Expertise und strategische Zusammenarbeit ermöglichen es uns, umfassende und wirkungsvolle Lösungen für reale Herausforderungen bereitzustellen.',
             'partners_section_title': 'Partner',
             'clients_section_title': 'Kunden',
+            'member_bio': 'Allegra Law mit Hauptsitz in Zürich bietet ein breites Spektrum an Rechtsdienstleistungen an, darunter Bank- und Finanzrecht, Kapitalmärkte, Unternehmensfusionen und -übernahmen, Daten- und Blockchain-Technologie, Prozessführung, internationale Schiedsgerichtsbarkeit sowie Arbeits- und Einwanderungsrecht. Dank umfassender Expertise im Finanzmarktrecht berät Allegra Law sowohl inländische als auch internationale Mandanten in Kapitalmarktfragen. Die gesellschaftsrechtliche Praxis von Allegra Law ist besonders stark in grenzüberschreitenden Fusionen und Übernahmen, während das Streitbeilegungsteam Handels- und Finanzstreitigkeiten, Schiedsverfahren, Mediationen und Verhandlungen bearbeitet und Mandanten vor Schweizer Behörden, nationalen und internationalen Gerichten sowie Schiedsgerichten vertritt.',
 
             // Contacts
             'contacts_title': 'Kontakte',
@@ -348,6 +350,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'lead_text_partners': 'Наші клієнти та партнери представляють широкий спектр галузей — від бізнесу та фінансів до технологій та операційної діяльності. Їхня різноманітна експертиза та стратегічна співпраця дозволяють нам надавати комплексні та ефективні рішення, адаптовані до реальних викликів.',
             'partners_section_title': 'Партнери',
             'clients_section_title': 'Клієнти',
+            'member_bio': 'Штаб-квартира компанії Allegra Law знаходиться в Цюриху, вона пропонує широкий спектр юридичних послуг, включаючи банківську справу та фінанси, ринки капіталу, корпоративні злиття та поглинання, технології даних та блокчейн, судові процеси, міжнародний арбітраж, а також трудове та імміграційне право. Маючи значний досвід у сфері права фінансових ринків, Allegra Law консультує як вітчизняних, так і міжнародних клієнтів з питань ринків капіталу. Корпоративна практика Allegra Law особливо сильна в транскордонних операціях зі злиття та поглинання, а її команда з вирішення спорів займається комерційними та фінансовими судовими процесами, арбітражем, медіацією та переговорами, представляючи клієнтів перед швейцарськими органами влади, національними та міжнародними судами, а також арбітражними трибуналами.',
 
             // Contacts
             'contacts_title': 'Контакти',
@@ -558,6 +561,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 title.setAttribute('data-i18n', 'founder1_bio');
             } else if (title.textContent.includes('Marcel Hostettler is a Swiss attorney and leading expert in')) {
                 title.setAttribute('data-i18n', 'founder2_bio');
+            }
+        });
+
+        // Partners' bios
+        document.querySelectorAll('.member-bio').forEach(title => {
+            if (title.textContent.includes('Headquartered in Zurich, Allegra Law is offering a broad range of legal services, including banking and finance, capital markets, corporate M&A, data and blockchain technology, litigation')) {
+                title.setAttribute('data-i18n', 'member_bio');
             }
         });
 
