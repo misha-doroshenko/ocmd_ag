@@ -362,7 +362,20 @@ img {
 .about-content {
     max-width: 800px;
     margin: 0 auto;
+}
+
+.about-content-lead-text {
     text-align: center;
+}
+
+.about-content-description {
+    text-align: left;
+}
+
+.about-content-description ul,
+.about-content-description li {
+  list-style: circle;
+  padding-left: 20px;
 }
 
 .lead-text {
@@ -370,20 +383,20 @@ img {
     margin-bottom: var(--space-md);
 }
 
-/* Services Section */
-.services-section {
+/* Vision & Values Section */
+.vision-values-section {
     padding: var(--space-xl) 0;
     background-color: var(--primary-white);
 }
 
-.services-grid {
+.vision-values-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: var(--space-md);
     margin-top: var(--space-lg);
 }
 
-.service-card {
+.vision-values-card {
     background-color: var(--light-gray);
     padding: var(--space-md);
     border-radius: 8px;
@@ -391,12 +404,12 @@ img {
     border-top: 4px solid var(--primary-red);
 }
 
-.service-card:hover {
+.vision-values-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
-.service-card h3 {
+.vision-values-card h3 {
     color: var(--primary-red);
     font-size: var(--fs-medium);
     margin-bottom: var(--space-sm);

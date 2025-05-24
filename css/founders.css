@@ -1,0 +1,134 @@
+/* Founder Page Styles */
+
+/* Page Banner */
+.page-banner {
+    padding: 120px 0 60px;
+    background-color: var(--primary-red);
+    color: var(--primary-white);
+    text-align: center;
+}
+
+.page-title {
+    font-size: var(--fs-xl);
+    margin-bottom: var(--space-xs);
+    font-weight: 700;
+}
+
+.page-subtitle {
+    font-size: var(--fs-medium);
+    font-weight: 300;
+}
+
+/* Founder Introduction */
+.founder-intro {
+    padding: var(--space-lg) 0;
+    background-color: var(--light-gray);
+    text-align: center;
+}
+
+.founder-intro .lead-text {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: var(--fs-medium);
+    line-height: 1.7;
+}
+
+/* Founder Sections */
+.founder-section {
+    padding: var(--space-xl) 0;
+    background-color: var(--light-gray);
+}
+
+.founder-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* <-- This centers items horizontally */
+    gap: var(--space-lg);
+    margin-top: var(--space-lg);
+}
+
+.founder-member {
+    background-color: var(--primary-white);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    width: 550px; /* Set exact width */
+    flex: 0 1 550px; /* Prevent items from shrinking/growing */
+}
+
+.founder-member:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.founder-image {
+    height: 500px;
+    overflow: hidden;
+}
+
+.founder-image-placeholder {
+    width: 100%;
+    height: 100%;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top; /* keep this one */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.founder-info {
+    padding: var(--space-md);
+}
+
+.founder-name {
+    color: var(--primary-red);
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: var(--space-xs);
+}
+
+.founder-title {
+    font-weight: 600;
+    color: var(--dark-gray);
+    margin-bottom: var(--space-sm);
+    font-size: 0.9rem;
+}
+
+.founder-bio {
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .page-banner {
+        padding: 100px 0 40px;
+    }
+
+    .page-title {
+        font-size: 2.2rem;
+    }
+
+    .team-grid {
+        grid-template-columns: 1fr;
+        gap: var(--space-md);
+    }
+}
+
+@media (max-width: 480px) {
+    .page-banner {
+        padding: 90px 0 30px;
+    }
+
+    .page-title {
+        font-size: 1.8rem;
+    }
+
+    .founder-image {
+        height: 300px;
+    }
+}
