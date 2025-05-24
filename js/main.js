@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_title': 'Construction & Urban Development',
             'industrial_card_title': 'Industrial Equipment & Manufacturing',
             'energy_card_title': 'Energy & Renewables',
-            'medical_card_title': 'Medical & Rehabilitation Technologies',
+            'medical_card_title': 'Healthcare & Medical Consulting',
             'agricultural_card_title': 'Agriculture & Agri-Tech',
             'business_card_title': 'Business & Investment Consulting',
             'infrastructure_and_reconstruction_card_description': 'We assist governments and organizations in rebuilding and enhancing infrastructure, focusing on sustainable development and resilience. Our expertise includes project management, structural engineering, and urban planning.',
@@ -150,7 +150,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_description': 'We collaborate with stakeholders to design and develop urban spaces, balancing growth with environmental and social considerations. Our expertise includes urban design, sustainable construction, and community engagement.',
             'industrial_card_description': 'We support manufacturers in optimizing production processes and equipment efficiency, aiming for higher productivity and quality. Our expertise includes process engineering, equipment design, and manufacturing optimization.',
             'energy_card_description': 'We assist in transitioning to renewable energy sources, focusing on sustainable solutions that reduce environmental impact. Our expertise includes energy strategy development, renewable technology implementation, and regulatory compliance.',
-            'medical_card_description': 'We develop and implement medical technologies that enhance patient care and rehabilitation outcomes. Our expertise includes medical device design, rehabilitation program development, and healthcare technology integration.',
+            'medical_card_description': 'We deliver tailored consulting solutions to advance healthcare delivery and medical innovation. Our services span system integration, clinical operations optimization, regulatory compliance, and strategic planning for hospitals, clinics, and life-science organizations. By combining deep industry expertise with data-driven insights, we help you enhance patient outcomes, streamline workflows, and build sustainable, future-ready health systems.',
             'agricultural_card_description': 'We provide solutions that enhance agricultural productivity and sustainability through technology and innovation. Our expertise includes agricultural process optimization, technology integration, and sustainable farming practices.',
             'business_card_description': 'We guide businesses and investors in making informed decisions, offering insights into market trends and strategic opportunities. Our expertise includes market analysis, investment strategy development, and risk assessment.',
 
@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_title': 'Bauwesen & Stadtentwicklung',
             'industrial_card_title': 'Industrieausrüstung & Fertigung',
             'energy_card_title': 'Energie & erneuerbare Ressourcen',
-            'medical_card_title': 'Medizinische & Rehabilitations­technologien',
+            'medical_card_title': 'Beratung im Gesundheitswesen und der Medizin',
             'agricultural_card_title': 'Landwirtschaft & Agrartechnologie',
             'business_card_title': 'Geschäfts- & Investitionsberatung',
             'infrastructure_and_reconstruction_card_description': 'Wir unterstützen Regierungen und Organisationen beim Wiederaufbau und der Verbesserung der Infrastruktur mit Fokus auf nachhaltige Entwicklung und Resilienz. Unsere Expertise umfasst Projektmanagement, Bauingenieurwesen und Stadtplanung.',
@@ -244,7 +244,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_description': 'Wir arbeiten mit Interessengruppen zusammen, um städtische Räume zu gestalten und zu entwickeln, wobei wir Wachstum mit ökologischen und sozialen Aspekten in Einklang bringen. Unsere Expertise umfasst Stadtgestaltung, nachhaltiges Bauen und Bürgerbeteiligung.',
             'industrial_card_description': 'Wir unterstützen Hersteller dabei, Produktionsprozesse und Geräteeffizienz zu optimieren, um höhere Produktivität und Qualität zu erreichen. Unsere Expertise umfasst Prozessengineering, Geräteplanung und Fertigungsoptimierung.',
             'energy_card_description': 'Wir unterstützen den Übergang zu erneuerbaren Energiequellen mit Fokus auf nachhaltige Lösungen zur Reduzierung der Umweltbelastung. Unsere Expertise umfasst die Entwicklung von Energiestrategien, Implementierung erneuerbarer Technologien und Einhaltung gesetzlicher Vorschriften.',
-            'medical_card_description': 'Wir entwickeln und implementieren Medizintechnologien, die die Patientenversorgung und Rehabilitationsergebnisse verbessern. Unsere Expertise umfasst das Design von medizinischen Geräten, Entwicklung von Rehabilitationsprogrammen und Integration von Gesundheitstechnologien.',
+            'medical_card_description': 'Wir bieten maßgeschneiderte Beratungslösungen für die Weiterentwicklung der Gesundheitsversorgung und medizinischer Innovationen. Unsere Leistungen umfassen Systemintegration, Optimierung klinischer Abläufe, Einhaltung gesetzlicher Vorschriften und strategische Planung für Krankenhäuser, Kliniken und Life-Science-Unternehmen. Durch die Kombination aus fundierter Branchenexpertise und datenbasierten Erkenntnissen unterstützen wir Sie dabei, die Patientenergebnisse zu verbessern, Arbeitsabläufe zu optimieren und nachhaltige, zukunftsfähige Gesundheitssysteme aufzubauen.',
             'agricultural_card_description': 'Wir bieten Lösungen zur Steigerung der landwirtschaftlichen Produktivität und Nachhaltigkeit durch Technologie und Innovation. Unsere Expertise umfasst die Optimierung landwirtschaftlicher Prozesse, Technologieintegration und nachhaltige Anbaumethoden.',
             'business_card_description': 'Wir beraten Unternehmen und Investoren bei fundierten Entscheidungen und bieten Einblicke in Markttrends und strategische Möglichkeiten. Unsere Expertise umfasst Marktanalysen, Entwicklung von Investitionsstrategien und Risikobewertungen.',
 
@@ -330,7 +330,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_title': 'Будівництво та міський розвиток',
             'industrial_card_title': 'Промислове обладнання та виробництво',
             'energy_card_title': 'Енергетика та відновлювані джерела енергії',
-            'medical_card_title': 'Медичні та реабілітаційні технології',
+            'medical_card_title': 'Консалтинг у сфері охорони здоров\'я та медицини',
             'agricultural_card_title': 'Сільське господарство та агротехнології',
             'business_card_title': 'Бізнес- та інвестиційне консультування',
             'infrastructure_and_reconstruction_card_description': 'Ми допомагаємо урядам та організаціям відновлювати та покращувати інфраструктуру, зосереджуючися на сталому розвитку та стійкості. Наша експертиза включає управління проектами, будівельне інженерство та міське планування.',
@@ -338,7 +338,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_description': 'Ми співпрацюємо з зацікавленими сторонами для проектування та розвитку міських просторів, поєднуючи зростання з екологічними та соціальними аспектами. Наша експертиза включає міське проектування, сталу забудову та залучення громади.',
             'industrial_card_description': 'Ми підтримуємо виробників у оптимізації виробничих процесів та ефективності обладнання, прагнучи до більшої продуктивності та якості. Наша експертиза включає процесне інженерство, проектування обладнання та оптимізацію виробництва.',
             'energy_card_description': 'Ми допомагаємо в переході до відновлюваних джерел енергії, зосереджуючись на сталих рішеннях, які зменшують вплив на навколишнє середовище. Наша експертиза включає розробку енергетичних стратегій, впровадження відновлюваних технологій та дотримання нормативно-правових актів.',
-            'medical_card_description': 'Ми розробляємо та впроваджуємо медичні технології, які покращують догляд за пацієнтами та результати реабілітації. Наша експертиза включає проектування медичних пристроїв, розробку програм реабілітації та інтеграцію медичних технологій.',
+            'medical_card_description': 'Ми пропонуємо індивідуальні консалтингові рішення для розвитку медичного обслуговування та медичних інновацій. Наші послуги охоплюють системну інтеграцію, оптимізацію клінічних операцій, дотримання нормативних вимог та стратегічне планування для лікарень, клінік та організацій, що займаються науками про життя. Поєднуючи глибокий галузевий досвід з аналітичними даними, ми допомагаємо вам покращити результати лікування пацієнтів, оптимізувати робочі процеси та створювати стійкі, готові до майбутнього системи охорони здоров\'я.',
             'agricultural_card_description': 'Ми надаємо рішення, які підвищують продуктивність та сталий розвиток сільського господарства через технології та інновації. Наша експертиза включає оптимізацію сільськогосподарських процесів, інтеграцію технологій та практики сталого землеробства.',
             'business_card_description': 'Ми консультуємо бізнеси та інвесторів щодо обґрунтованих рішень, надаючи інформацію про ринкові тенденції та стратегічні можливості. Наша експертиза включає аналіз ринку, розробку інвестиційних стратегій та оцінку ризиків.',
 
@@ -482,7 +482,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 title.setAttribute('data-i18n', 'industrial_card_title');
             } else if (title.textContent.includes('Energy & Renewables')) {
                 title.setAttribute('data-i18n', 'energy_card_title');
-            } else if (title.textContent.includes('Medical & Rehabilitation Technologies')) {
+            } else if (title.textContent.includes('Healthcare & Medical Consulting')) {
                 title.setAttribute('data-i18n', 'medical_card_title');
             } else if (title.textContent.includes('Agriculture & Agri-Tech')) {
                 title.setAttribute('data-i18n', 'agricultural_card_title');
@@ -505,7 +505,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 title.setAttribute('data-i18n', 'energy_card_description');
             } else if (title.textContent.includes('We develop and implement medical technologies that enhance patient care')) {
                 title.setAttribute('data-i18n', 'medical_card_description');
-            } else if (title.textContent.includes('We provide solutions that enhance agricultural productivity and sustainability through')) {
+            } else if (title.textContent.includes('We deliver tailored consulting solutions to advance healthcare delivery and medical innovation. Our services span system integration')) {
                 title.setAttribute('data-i18n', 'agricultural_card_description');
             } else if (title.textContent.includes('We guide businesses and investors in making informed decisions')) {
                 title.setAttribute('data-i18n', 'business_card_description');
