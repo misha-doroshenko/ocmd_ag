@@ -82,6 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_expertise': 'Expertise',
             'nav_team': 'Partners & Clients',
             'nav_contact': 'Contacts',
+            'nav_contact_footer': 'Contact',
             'footer_slogan': 'Strategic Consulting for Infrastructure & Business Development',
 
             // Common sections
@@ -105,14 +106,14 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_message': 'Enter your message here...',
 
             // Main texts
-            'hero_title': 'OCMD Consulting AG<br><br>Strategic Consulting for Business Transformation  and Sustainable Success',
+            'hero_title': 'OCMD Consulting AG<br><br>Strategic Consulting for Market Access and Business Expansion',
             'lead_text_index': 'Are you a Swiss company eyeing opportunities in Ukraine—or a Ukrainian business planning to establish a presence in Switzerland?<br>OCMD Consulting AG is your strategic partner for both markets',
             'description1': 'As a Swiss-based consulting firm with deep local expertise in Ukraine, we guide Swiss businesses through market entry, expansion, and growth in one of Europe’s most dynamic economies. At the same time, we support Ukrainian companies seeking to open offices, build partnerships, and navigate Swiss regulations with confidence.',
-            'description2': 'Despite our young age, we’ve already helped a growing roster of clients on both sides:',
+            'description2': 'We’ve already helped a growing roster of clients on both sides:',
             'description3': 'Swiss → Ukraine: Market analysis, partner sourcing, regulatory compliance, and operational setup',
             'description4': 'Ukraine → Switzerland: Business incorporation, tax and legal guidance, local network development, and go-to-market strategies',
-            'description5': 'Combining on-the-ground insights, trusted local networks, and customized solutions, we make your cross-border expansion smooth, secure, and strategically sound. Let us help you seize the unique opportunities that Switzerland and Ukraine offer—together.',
-            'values_vision_subtitle': 'At OCMD Consulting AG, our aim is to foster long-term growth and leave a positive mark in every partnership. We pride ourselves on three core values:',
+            'description5': 'By combining on-the-ground insights, trusted local networks, and customized solutions, we make your cross-border expansion smooth, secure, and strategically sound. Let us help you seize the unique opportunities that Switzerland and Ukraine offer—together.',
+            'values_vision_subtitle': 'At OCMD Consulting AG, our aim is to foster long-term growth and partnership.',
             
             // Founders
             'meet_our_founders': 'Meet our founders',
@@ -120,8 +121,8 @@ document.addEventListener('DOMContentLoaded', function() {
             'founder1_title': 'Co-Founder & CEO',
             'founder1_bio': 'Olena Chernezhenko is an accomplished international project executive who spearheads strategic market-entry and cooperation initiatives between Switzerland and Ukraine. Building on nearly 20 years at the Swiss Embassy in Kyiv, she now oversees high-impact projects in key sectors - including infrastructure, healthcare, agriculture, construction and railway & mobility - laying the groundwork for durable, public-private partnerships and seamless, cross-border expansion.<br>Combining deep insight into Ukrainian market dynamics with a robust network of government and industry stakeholders, Olena assists Swiss and global clients in establishing or growing their operations in Ukraine. Her strategic vision, solution-oriented approach and steadfast commitment to sustainable development, make OCMD Consulting AG the partner of choice for complex, international ventures.', 
             'founder2_name': 'Marcel Hostettler',
-            'founder2_title': 'Co-Founder & Managing Partner',
-            'founder2_bio': 'Marcel Hostettler is a Swiss attorney and leading expert in financial market law and international regulatory issues. He is the founder and managing partner of Allegra LAW, a Swiss law firm specializing in financial market law/digital assets, corporate and M&A, and litigation.<br>Marcel and his team advise leading financial market institutions from around the world. Marcel Hostettler is particularly strong in helping foreign companies set up operations in Switzerland and he can cover all the legal needs of these companies.<br>Marcel has an excellent network and, thanks to his international presence, is very familiar with the needs of companies and individuals coming to Switzerland.', 
+            'founder2_title': 'Co-Founder',
+            'founder2_bio': 'Marcel Hostettler is a Swiss attorney and leading expert in financial market law and international regulatory issues. He is the founder and managing partner of <a href="https://www.allegra.law/"><b><u>Allegra LAW</u></b></a>, a Swiss law firm specializing in financial market law/digital assets, corporate and M&A, and litigation.<br>Marcel and his team advise leading financial market institutions from around the world. Marcel Hostettler is particularly strong in helping foreign companies set up operations in Switzerland and he can cover all the legal needs of these companies.<br>Marcel has an excellent network and, thanks to his international presence, is very familiar with the needs of companies and individuals coming to Switzerland.', 
 
             // Vision & Values section
             'dedication_card_title': 'Dedication',
@@ -134,9 +135,9 @@ document.addEventListener('DOMContentLoaded', function() {
             // Expertise texts
             'expertise_title': 'Our Expertise',
             'expertise_subtitle': 'Specialized knowledge that drives results',
-            'lead_text_expertise': 'At OCMD Consulting AG, we combine industry knowledge with sector-specific and advisory expertise to deliver tailored solutions that address your unique challenges and opportunities. Our consultants bring hands-on experience across multiple sectors, ensuring practical advice that creates real value',
+            'lead_text_expertise': 'At OCMD Consulting AG, we combine industry knowledge with sector-specific expertise to deliver tailored solutions that address your unique challenges and opportunities',
             'industy_expertise_title': 'Industry Expertise',
-            'sector_specific_expertise_title': 'Sector-Specific & Advisory Expertise',
+            'sector_specific_expertise_title': 'Sector-Specific Expertise',
             'infrastructure_and_reconstruction_card_title': 'Infrastructure & Reconstruction',
             'railway_card_title': 'Railway & Mobility Solutions',
             'construction_card_title': 'Construction & Urban Development',
@@ -177,6 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_expertise': 'Fachgebiete',
             'nav_team': 'Partner und Kunden',
             'nav_contact': 'Kontakte',
+            'nav_contact_footer': 'Kontakte',
             'footer_slogan': 'Strategische Beratung für Infrastruktur und Geschäftsentwicklung',
 
             // Common sections
@@ -200,14 +202,14 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_message': 'Geben Sie hier Ihre Nachricht ein...',
 
             // Main texts
-            'hero_title': 'OCMD Consulting AG<br><br>Strategische Beratung für Business Transformation und nachhaltigen Erfolg',
+            'hero_title': 'OCMD Consulting AG<br><br>Strategische Beratung für Marktzugang und Geschäftserweiterung',
             'lead_text_index': 'Sind Sie ein Schweizer Unternehmen, das Chancen in der Ukraine sucht – oder ein ukrainisches Unternehmen, das eine Präsenz in der Schweiz plant?<br>Die OCMD Consulting AG ist Ihr strategischer Partner für beide Märkte',
             'description1': 'Als Schweizer Beratungsunternehmen mit umfassender lokaler Expertise in der Ukraine begleiten wir Schweizer Unternehmen bei Markteintritt, Expansion und Wachstum in einer der dynamischsten Volkswirtschaften Europas. Gleichzeitig unterstützen wir ukrainische Unternehmen bei der Eröffnung von Niederlassungen, dem Aufbau von Partnerschaften und der sicheren Bewältigung der Schweizer Vorschriften.',
-            'description2': 'Trotz unserer jungen Unternehmensgeschichte haben wir bereits eine wachsende Zahl von Kunden auf beiden Seiten betreut:',
+            'description2': 'Wir haben bereits einer wachsenden Zahl von Kunden auf beiden Seiten geholfen:',
             'description3': 'Schweiz → Ukraine: Marktanalyse, Partnersuche, Einhaltung gesetzlicher Vorschriften und operativer Aufbau',
             'description4': 'Ukraine → Schweiz: Unternehmensgründung, steuerliche und rechtliche Beratung, Aufbau eines lokalen Netzwerks und Markteinführungsstrategien',
-            'description5': 'Mit unserer Kombination aus praxisnahen Erkenntnissen, bewährten lokalen Netzwerken und maßgeschneiderten Lösungen gestalten wir Ihre grenzüberschreitende Expansion reibungslos, sicher und strategisch fundiert. Wir helfen Ihnen, die einzigartigen Chancen der Schweiz und der Ukraine gemeinsam zu nutzen.',
-            'values_vision_subtitle': 'Bei der OCMD Consulting AG ist es unser Ziel, langfristiges Wachstum zu fördern und in jeder Partnerschaft positive Spuren zu hinterlassen. Wir sind stolz auf drei Grundwerte:',
+            'description5': 'Durch die Kombination von praktischem Wissen, vertrauenswürdigen lokalen Netzwerken und maßgeschneiderten Lösungen gestalten wir Ihre grenzüberschreitende Expansion reibungslos, sicher und strategisch fundiert. Wir helfen Ihnen, die einzigartigen Chancen zu nutzen, die die Schweiz und die Ukraine bieten – gemeinsam.',
+            'values_vision_subtitle': 'Bei OCMD Consulting AG ist es unser Ziel, langfristiges Wachstum und Partnerschaften zu fördern.',
             
             // Founders
             'meet_our_founders': 'Lernen Sie unsere Gründer kennen',
@@ -215,8 +217,8 @@ document.addEventListener('DOMContentLoaded', function() {
             'founder1_title': 'Mitgründerin & CEO',
             'founder1_bio': 'Olena Chernezhenko ist eine erfahrene internationale Projektmanagerin und leitet strategische Markteintritts- und Kooperationsinitiativen zwischen der Schweiz und der Ukraine. Nach fast 20 Jahren an der Schweizer Botschaft in Kiew betreut sie heute hochwirksame Projekte in Schlüsselsektoren – darunter Infrastruktur, Gesundheitswesen, Landwirtschaft, Bauwesen sowie Eisenbahn & Mobilität – und legt damit den Grundstein für dauerhafte öffentlich-private Partnerschaften und eine reibungslose, grenzüberschreitende Expansion.<br>Olena kombiniert tiefe Einblicke in die Dynamik des ukrainischen Marktes mit einem starken Netzwerk aus Regierungs- und Industrievertretern und unterstützt Schweizer und internationale Kunden beim Aufbau oder Ausbau ihrer Geschäftstätigkeit in der Ukraine. Ihre strategische Vision, ihr lösungsorientierter Ansatz und ihr unermüdliches Engagement für nachhaltige Entwicklung machen die OCMD Consulting AG zum bevorzugten Partner für komplexe, internationale Projekte.', 
             'founder2_name': 'Marcel Hostettler',
-            'founder2_title': 'Mitgründer & Managing Partner',
-            'founder2_bio': 'Marcel Hostettler ist Schweizer Rechtsanwalt und führender Experte für Finanzmarktrecht und internationale Regulierung. Er ist Gründer und Managing Partner von Allegra LAW, einer Schweizer Anwaltskanzlei mit Spezialisierung auf Finanzmarktrecht/Digitale Vermögenswerte, Gesellschaftsrecht, M&A und Prozessführung.<br>Marcel und sein Team beraten führende Finanzinstitute weltweit. Marcel Hostettler ist besonders stark in der Unterstützung ausländischer Unternehmen bei der Niederlassung in der Schweiz und kann alle rechtlichen Belange dieser Unternehmen abdecken.<br>Marcel verfügt über ein exzellentes Netzwerk und ist dank seiner internationalen Präsenz bestens mit den Bedürfnissen von Unternehmen und Privatpersonen vertraut, die in die Schweiz kommen.', 
+            'founder2_title': 'Mitgründer',
+            'founder2_bio': 'Marcel Hostettler ist Schweizer Rechtsanwalt und führender Experte für Finanzmarktrecht und internationale Regulierung. Er ist Gründer und Managing Partner von <a href="https://www.allegra.law/"><b><u>Allegra LAW</u></b></a>, einer Schweizer Anwaltskanzlei mit Spezialisierung auf Finanzmarktrecht/Digitale Vermögenswerte, Gesellschaftsrecht, M&A und Prozessführung.<br>Marcel und sein Team beraten führende Finanzinstitute weltweit. Marcel Hostettler ist besonders stark in der Unterstützung ausländischer Unternehmen bei der Niederlassung in der Schweiz und kann alle rechtlichen Belange dieser Unternehmen abdecken.<br>Marcel verfügt über ein exzellentes Netzwerk und ist dank seiner internationalen Präsenz bestens mit den Bedürfnissen von Unternehmen und Privatpersonen vertraut, die in die Schweiz kommen.', 
         
             // Vision & Values section
             'dedication_card_title': 'Engagement',
@@ -229,9 +231,9 @@ document.addEventListener('DOMContentLoaded', function() {
             // Expertise texts
             'expertise_title': 'Unsere Expertise',
             'expertise_subtitle': 'Spezialwissen, das Ergebnisse bringt',
-            'lead_text_expertise': 'Bei der OCMD Consulting AG kombinieren wir Branchenwissen mit branchenspezifischer Beratungskompetenz, um maßgeschneiderte Lösungen für Ihre individuellen Herausforderungen und Chancen zu entwickeln. Unsere Berater verfügen über praktische Erfahrung in verschiedenen Branchen und gewährleisten so praxisnahe Beratung, die echten Mehrwert schafft',
+            'lead_text_expertise': 'Bei der OCMD Consulting AG kombinieren wir Branchenwissen mit branchenspezifischer Expertise, um maßgeschneiderte Lösungen für Ihre individuellen Herausforderungen und Chancen zu entwickeln',
             'industy_expertise_title': 'Industrieexpertise',
-            'sector_specific_expertise_title': 'Branchenspezifische & Beratungs­expertise',
+            'sector_specific_expertise_title': 'Branchenspezifische Expertise',
             'infrastructure_and_reconstruction_card_title': 'Infrastruktur & Wiederaufbau',
             'railway_card_title': 'Bahn- & Mobilitätslösungen',
             'construction_card_title': 'Bauwesen & Stadtentwicklung',
@@ -272,6 +274,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_expertise': 'Експертиза',
             'nav_team': 'Партнери і клієнти',
             'nav_contact': 'Контакти',
+            'nav_contact_footer': 'Контакти',
             'footer_slogan': 'Стратегічний консалтинг для розвитку інфраструктури та бізнесу',
 
             // Common sections
@@ -295,14 +298,14 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_message': 'Введіть ваше повідомлення тут...',
 
             // Main texts
-            'hero_title': 'OCMD Consulting AG<br><br>Стратегічний консалтинг для трансформації бізнесу та сталого успіху',
+            'hero_title': 'OCMD Consulting AG<br><br>Стратегічний консалтинг для доступу до ринку та розширення бізнесу',
             'lead_text_index': 'Ви швейцарська компанія, яка розглядає можливості в Україні, чи український бізнес, що планує розширити свою присутність у Швейцарії?<br>OCMD Consulting AG — ваш стратегічний партнер для обох ринків',
             'description1': 'Як швейцарська консалтингова фірма з глибоким досвідом роботи в Україні, ми супроводжуємо швейцарський бізнес у процесі виходу на ринок, розширення та зростання в одній з найдинамічніших економік Європи. Водночас ми підтримуємо українські компанії, які прагнуть відкрити офіси, побудувати партнерські відносини та впевнено орієнтуватися в швейцарському законодавстві.',
-            'description2': 'Незважаючи на наш молодий вік, ми вже допомогли зростаючій кількості клієнтів з обох сторін:',
+            'description2': 'Ми вже допомогли зростаючій кількості клієнтів з обох сторін:',
             'description3': 'Швейцарія → Україна: аналіз ринку, пошук партнерів, дотримання нормативних вимог та налаштування операційної діяльності',
             'description4': 'Україна → Швейцарія: реєстрація бізнесу, податкові та юридичні консультації, розвиток локальної мережі та стратегії виходу на ринок',
             'description5': 'Поєднуючи практичні знання, надійні локальні мережі та індивідуальні рішення, ми робимо вашу транскордонну експансію плавною, безпечною та стратегічно обґрунтованою. Дозвольте нам допомогти вам скористатися унікальними можливостями, які пропонують Швейцарія та Україна — разом.',
-            'values_vision_subtitle': 'У OCMD Consulting AG наша мета — сприяти довгостроковому зростанню та залишати позитивний слід у кожному партнерстві. Ми пишаємося трьома основними цінностями:',
+            'values_vision_subtitle': 'У OCMD Consulting AG наша мета — сприяти довгостроковому зростанню та партнерству.',
 
             // Vision & Values section
             'dedication_card_title': 'Відданість',
@@ -318,15 +321,15 @@ document.addEventListener('DOMContentLoaded', function() {
             'founder1_title': 'Співзасновниця та генеральний директор',
             'founder1_bio': 'Олена Чернеженко — досвідчений міжнародний керівник проектів, яка очолює стратегічні ініціативи щодо виходу на ринок та співпраці між Швейцарією та Україною. Маючи майже 20 років досвіду роботи у Посольстві Швейцарії в Києві, вона зараз контролює високоефективні проекти у ключових секторах, включаючи інфраструктуру, охорону здоров\'я, сільське господарство, будівництво, залізниці та мобільність, закладаючи основу для довгострокових державно-приватних партнерств та безперебійного транскордонного розширення.<br>Поєднуючи глибоке розуміння динаміки українського ринку з потужною мережею державних та промислових зацікавлених сторін, Олена допомагає швейцарським та міжнародним клієнтам у створенні або розширенні їхньої діяльності в Україні. Її стратегічне бачення, орієнтований на рішення підхід та непохитне прагнення до сталого розвитку роблять OCMD Consulting AG партнером вибору для складних міжнародних проектів.', 
             'founder2_name': 'Марсель Хостеттлер',
-            'founder2_title': 'Співзасновник та керуючий партнер',
-            'founder2_bio': 'Марсель Хостеттлер — швейцарський адвокат та провідний експерт у сфері права фінансового ринку та міжнародного регулювання. Він є засновником та керуючим партнером Allegra LAW, швейцарської юридичної фірми, що спеціалізується на праві фінансового ринку/цифрових активах, корпоративному праві та злиттях та поглинаннях, а також судових процесах.<br>Марсель та його команда консультують провідні установи фінансового ринку з усього світу. Марсель Хостеттлер особливо сильний у допомозі іноземним компаніям у створенні операцій у Швейцарії та може задовольнити всі юридичні потреби цих компаній.<br>Марсель має чудову мережу контактів і, завдяки своїй міжнародній присутності, добре знайомий з потребами компаній та приватних осіб, які приїжджають до Швейцарії.', 
+            'founder2_title': 'Співзасновник',
+            'founder2_bio': 'Марсель Хостеттлер — швейцарський адвокат та провідний експерт у сфері права фінансового ринку та міжнародного регулювання. Він є засновником та керуючим партнером <a href="https://www.allegra.law/"><b><u>Allegra LAW</u></b></a>, швейцарської юридичної фірми, що спеціалізується на праві фінансового ринку/цифрових активах, корпоративному праві та злиттях та поглинаннях, а також судових процесах.<br>Марсель та його команда консультують провідні установи фінансового ринку з усього світу. Марсель Хостеттлер особливо сильний у допомозі іноземним компаніям у створенні операцій у Швейцарії та може задовольнити всі юридичні потреби цих компаній.<br>Марсель має чудову мережу контактів і, завдяки своїй міжнародній присутності, добре знайомий з потребами компаній та приватних осіб, які приїжджають до Швейцарії.', 
 
             // Expertise texts
             'expertise_title': 'Наша Експертиза',
             'expertise_subtitle': 'Спеціалізовані знання, які забезпечують результати',
-            'lead_text_expertise': 'У OCMD Consulting AG ми поєднуємо галузеві знання з галузевими та консультаційними досвідом, щоб надавати індивідуальні рішення, які відповідають вашим унікальним викликам і можливостям. Наші консультанти мають практичний досвід у різних секторах, забезпечуючи практичні поради, які створюють реальну цінність',
+            'lead_text_expertise': 'У OCMD Consulting AG ми поєднуємо галузеві знання з досвідом, щоб надавати індивідуальні рішення, які відповідають вашим унікальним викликам і можливостям',
             'industy_expertise_title': 'Експертиза в галузі інфраструктури та промисловості',
-            'sector_specific_expertise_title': 'Секторальна та консультаційна експертиза',
+            'sector_specific_expertise_title': 'Галузева експертиза',
             'infrastructure_and_reconstruction_card_title': 'Інфраструктура та відбудова',
             'railway_card_title': 'Залізничні та мобільні рішення',
             'construction_card_title': 'Будівництво та міський розвиток',
@@ -410,8 +413,9 @@ document.addEventListener('DOMContentLoaded', function() {
         const navTeamLinks = document.querySelectorAll('.nav-partners-clients');
         const navContactLinks = document.querySelectorAll('.nav-contacts');
 
-        const footerExpertiseLinks = document.querySelectorAll('.footer-links li:nth-child(1) a');
-        const footerTeamLinks = document.querySelectorAll('.footer-links li:nth-child(2) a');
+        const footerHomeLinks = document.querySelectorAll('.footer-links li:nth-child(1) a');
+        const footerExpertiseLinks = document.querySelectorAll('.footer-links li:nth-child(2) a');
+        // const footerTeamLinks = document.querySelectorAll('.footer-links li:nth-child(2) a');
         const footerContactsLinks = document.querySelectorAll('.footer-links li:nth-child(3) a');
 
 
@@ -421,9 +425,10 @@ document.addEventListener('DOMContentLoaded', function() {
         navTeamLinks.forEach(link => link.setAttribute('data-i18n', 'nav_team'));
         navContactLinks.forEach(link => link.setAttribute('data-i18n', 'nav_contact'));
 
+        footerHomeLinks.forEach(link => link.setAttribute('data-i18n', 'nav_home'));
         footerExpertiseLinks.forEach(link => link.setAttribute('data-i18n', 'nav_expertise'));
-        footerTeamLinks.forEach(link => link.setAttribute('data-i18n', 'nav_team'));
-        footerContactsLinks.forEach(link => link.setAttribute('data-i18n', 'nav-contacts'));
+        // footerTeamLinks.forEach(link => link.setAttribute('data-i18n', 'nav_team'));
+        footerContactsLinks.forEach(link => link.setAttribute('data-i18n', 'nav_contact_footer'));
 
         // Section titles
         document.querySelectorAll('.section-title').forEach(title => {
@@ -441,7 +446,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 title.setAttribute('data-i18n', 'who_we_are');
             } else if (title.textContent.includes('Industry Expertise')) {
                 title.setAttribute('data-i18n', 'industy_expertise_title');
-            } else if (title.textContent.includes('Sector-Specific & Advisory Expertise')) {
+            } else if (title.textContent.includes('Sector-Specific Expertise')) {
                 title.setAttribute('data-i18n', 'sector_specific_expertise_title');
             }else if (title.textContent.includes('Partners')) {
                 title.setAttribute('data-i18n', 'partners_section_title');
@@ -547,15 +552,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
-        // Founders' titles
-        document.querySelectorAll('.founder-title').forEach(title => {
-            if (title.textContent.includes('Co-Founder & CEO')) {
-                title.setAttribute('data-i18n', 'founder1_title');
-            } else if (title.textContent.includes('Co-Founder & Managing Partner')) {
-                title.setAttribute('data-i18n', 'founder2_title');
-            }
-        });
-
         // Founders' bios
         document.querySelectorAll('.founder-bio').forEach(title => {
             if (title.textContent.includes('Olena Chernezhenko is an accomplished international project')) {
@@ -582,6 +578,8 @@ document.addEventListener('DOMContentLoaded', function() {
         document.querySelectorAll('.description3').forEach(link => link.setAttribute('data-i18n', 'description3'))
         document.querySelectorAll('.description4').forEach(link => link.setAttribute('data-i18n', 'description4'))
         document.querySelectorAll('.description5').forEach(link => link.setAttribute('data-i18n', 'description5'))
+        document.querySelectorAll('.founder-title1').forEach(link => link.setAttribute('data-i18n', 'founder1_title'))
+        document.querySelectorAll('.founder-title2').forEach(link => link.setAttribute('data-i18n', 'founder2_title'))
         document.querySelectorAll('.section-subtitle-values-vision').forEach(link => link.setAttribute('data-i18n', 'values_vision_subtitle'))
         document.querySelectorAll('.section-subtitle-contacts-questions').forEach(link => link.setAttribute('data-i18n', 'questions_title'))
         document.querySelectorAll('.tagline').forEach(link => link.setAttribute('data-i18n', 'footer_slogan'))
