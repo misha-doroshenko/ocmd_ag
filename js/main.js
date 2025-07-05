@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Main texts
             'hero_title': 'OCMD Consulting AG<br><br>Strategic Consulting for Market Access and Business Expansion',
-            'lead_text_index': 'Are you a Swiss company eyeing opportunities in Ukraine—or a Ukrainian business planning to establish a presence in Switzerland?<br>OCMD Consulting AG is your strategic partner for both markets',
+            'lead_text_index': 'Are you a Swiss company eyeing opportunities in Ukraine—or a Ukrainian business planning to establish a presence in Switzerland?<br><b>OCMD Consulting AG is your strategic partner for both markets</b>',
             'description1': 'As a Swiss-based consulting firm with deep local expertise in Ukraine, we guide Swiss businesses through market entry, expansion, and growth in one of Europe’s most dynamic economies. At the same time, we support Ukrainian companies seeking to open offices, build partnerships, and navigate Swiss regulations with confidence.',
             'description2': 'We’ve already helped a growing roster of clients on both sides:',
             'description3': 'Swiss → Ukraine: Market analysis, partner sourcing, regulatory compliance, and operational setup',
@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_description': 'We collaborate with stakeholders to design and develop urban spaces, balancing growth with environmental and social considerations. Our expertise includes urban design, sustainable construction, and community engagement.',
             'industrial_card_description': 'We support manufacturers in optimizing production processes and equipment efficiency, aiming for higher productivity and quality. Our expertise includes process engineering, equipment design, and manufacturing optimization.',
             'energy_card_description': 'We assist in transitioning to renewable energy sources, focusing on sustainable solutions that reduce environmental impact. Our expertise includes energy strategy development, renewable technology implementation, and regulatory compliance.',
-            'medical_card_description': 'We deliver tailored consulting solutions to advance healthcare delivery and medical innovation. Our services span system integration, clinical operations optimization, regulatory compliance, and strategic planning for hospitals, clinics, and life-science organizations. By combining deep industry expertise with data-driven insights, we help you enhance patient outcomes, streamline workflows, and build sustainable, future-ready health systems.',
+            'medical_card_description': 'We offer solutions that help improve the efficiency of medical institutions, optimize treatment processes, and implement modern technologies in the healthcare sector. Our expertise includes the optimization of medical processes, integration of digital technologies, and the development of innovative models for healthcare service delivery.',
             'agricultural_card_description': 'We provide solutions that enhance agricultural productivity and sustainability through technology and innovation. Our expertise includes agricultural process optimization, technology integration, and sustainable farming practices.',
             'business_card_description': 'We guide businesses and investors in making informed decisions, offering insights into market trends and strategic opportunities. Our expertise includes market analysis, investment strategy development, and risk assessment.',
 
@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'nav_team': 'Partner und Kunden',
             'nav_contact': 'Kontakte',
             'nav_contact_footer': 'Kontakte',
-            'footer_slogan': 'Strategische Beratung für Infrastruktur und Geschäftsentwicklung',
+            'footer_slogan': 'Strategische Beratung für Markteintritt und Geschäftsausbau',
 
             // Common sections
             'section_values_vision': 'UNSERE VISION & WERTE',
@@ -202,20 +202,20 @@ document.addEventListener('DOMContentLoaded', function() {
             'form_message': 'Geben Sie hier Ihre Nachricht ein...',
 
             // Main texts
-            'hero_title': 'OCMD Consulting AG<br><br>Strategische Beratung für Marktzugang und Geschäftserweiterung',
-            'lead_text_index': 'Sind Sie ein Schweizer Unternehmen, das Chancen in der Ukraine sucht – oder ein ukrainisches Unternehmen, das eine Präsenz in der Schweiz plant?<br>Die OCMD Consulting AG ist Ihr strategischer Partner für beide Märkte',
-            'description1': 'Als Schweizer Beratungsunternehmen mit umfassender lokaler Expertise in der Ukraine begleiten wir Schweizer Unternehmen bei Markteintritt, Expansion und Wachstum in einer der dynamischsten Volkswirtschaften Europas. Gleichzeitig unterstützen wir ukrainische Unternehmen bei der Eröffnung von Niederlassungen, dem Aufbau von Partnerschaften und der sicheren Bewältigung der Schweizer Vorschriften.',
-            'description2': 'Wir haben bereits einer wachsenden Zahl von Kunden auf beiden Seiten geholfen:',
-            'description3': 'Schweiz → Ukraine: Marktanalyse, Partnersuche, Einhaltung gesetzlicher Vorschriften und operativer Aufbau',
-            'description4': 'Ukraine → Schweiz: Unternehmensgründung, steuerliche und rechtliche Beratung, Aufbau eines lokalen Netzwerks und Markteinführungsstrategien',
-            'description5': 'Durch die Kombination von praktischem Wissen, vertrauenswürdigen lokalen Netzwerken und maßgeschneiderten Lösungen gestalten wir Ihre grenzüberschreitende Expansion reibungslos, sicher und strategisch fundiert. Wir helfen Ihnen, die einzigartigen Chancen zu nutzen, die die Schweiz und die Ukraine bieten – gemeinsam.',
+            'hero_title': 'OCMD Consulting AG<br><br>Strategische Beratung für Markteintritt und Geschäftsausbau',
+            'lead_text_index': 'Sind Sie ein Schweizer Unternehmen mit Interesse am ukrainischen Markt – oder ein Ukrainisches Unternehmen, das in der Schweiz Fuss fassen möchte?<br><b>OCMD Consulting AG ist Ihr strategischer Partner für beide Märkte.</b>',
+            'description1': 'Als Schweizer Beratungsunternehmen mit umfassender lokaler Expertise in der Ukraine begleiten wir Schweizer Firmen beim Markteintritt, beim Ausbau und beim Wachstum in einer der dynamischsten Volkswirtschaften Europas. Gleichzeitig unterstützen wir ukrainische Unternehmen, die Niederlassungen in der Schweiz gründen, Partnerschaften aufbauen und sich sicher im schweizerischen Rechts- und Regulierungssystem bewegen möchten.',
+            'description2': '<b>Wir haben bereits zahlreiche Kunden auf beiden Seiten erfolgreich begleitet:</b>',
+            'description3': '<b>Schweiz → Ukraine:</b><br>Marktanalyse, Partnersuche, Einhaltung regulatorischer Anforderungen und Aufbau der operativen Strukturen',
+            'description4': '<b>Ukraine → Schweiz:</b><br>Firmengründung, steuerliche und rechtliche Beratung, Netzwerkaufbau sowie Markteintrittsstrategien',
+            'description5': 'Dank unserer fundierten Marktkenntnisse, vertrauensvollen lokalen Netzwerke und massgeschneiderten Lösungen gestalten wir Ihre grenzüberschreitende Expansion sicher, effizient und zukunftsorientiert.<br><br><b>Lassen Sie uns gemeinsam die einzigartigen Chancen nutzen, die die Schweiz und die Ukraine bieten.</b>',
             'values_vision_subtitle': 'Bei OCMD Consulting AG ist es unser Ziel, langfristiges Wachstum und Partnerschaften zu fördern.',
             
             // Founders
-            'meet_our_founders': 'Lernen Sie unsere Gründer kennen',
+            'meet_our_founders': 'Unsere Gründer stellen sich vor',
             'founder1_name': 'Olena Chernezhenko',
             'founder1_title': 'Mitgründerin & CEO',
-            'founder1_bio': 'Olena Chernezhenko ist eine erfahrene internationale Projektmanagerin und leitet strategische Markteintritts- und Kooperationsinitiativen zwischen der Schweiz und der Ukraine. Nach fast 20 Jahren an der Schweizer Botschaft in Kiew betreut sie heute hochwirksame Projekte in Schlüsselsektoren – darunter Infrastruktur, Gesundheitswesen, Landwirtschaft, Bauwesen sowie Eisenbahn & Mobilität – und legt damit den Grundstein für dauerhafte öffentlich-private Partnerschaften und eine reibungslose, grenzüberschreitende Expansion.<br>Olena kombiniert tiefe Einblicke in die Dynamik des ukrainischen Marktes mit einem starken Netzwerk aus Regierungs- und Industrievertretern und unterstützt Schweizer und internationale Kunden beim Aufbau oder Ausbau ihrer Geschäftstätigkeit in der Ukraine. Ihre strategische Vision, ihr lösungsorientierter Ansatz und ihr unermüdliches Engagement für nachhaltige Entwicklung machen die OCMD Consulting AG zum bevorzugten Partner für komplexe, internationale Projekte.', 
+            'founder1_bio': 'Olena Chernezhenko ist eine erfahrene internationale Projektmanagerin und leitet strategische Markteintritts- und Kooperationsinitiativen zwischen der Schweiz und der Ukraine. Nach fast 20 Jahren an der Schweizer Botschaft in Kyiw betreut sie heute hochwirksame Projekte in Schlüsselsektoren – darunter Infrastruktur, Gesundheitswesen, Landwirtschaft, Bauwesen sowie Eisenbahn & Mobilität – und legt damit den Grundstein für dauerhafte öffentlich-private Partnerschaften und eine reibungslose, grenzüberschreitende Expansion.<br>Olena kombiniert tiefe Einblicke in die Dynamik des ukrainischen Marktes mit einem starken Netzwerk aus Regierungs- und Industrievertretern und unterstützt Schweizer und internationale Kunden beim Aufbau oder Ausbau ihrer Geschäftstätigkeit in der Ukraine. Ihre strategische Vision, ihr lösungsorientierter Ansatz und ihr unermüdliches Engagement für nachhaltige Entwicklung machen die OCMD Consulting AG zum bevorzugten Partner für komplexe, internationale Projekte.', 
             'founder2_name': 'Marcel Hostettler',
             'founder2_title': 'Mitgründer',
             'founder2_bio': 'Marcel Hostettler ist Schweizer Rechtsanwalt und führender Experte für Finanzmarktrecht und internationale Regulierung. Er ist Gründer und Managing Partner von <a href="https://www.allegra.law/"><b><u>Allegra LAW</u></b></a>, einer Schweizer Anwaltskanzlei mit Spezialisierung auf Finanzmarktrecht/Digitale Vermögenswerte, Gesellschaftsrecht, M&A und Prozessführung.<br>Marcel und sein Team beraten führende Finanzinstitute weltweit. Marcel Hostettler ist besonders stark in der Unterstützung ausländischer Unternehmen bei der Niederlassung in der Schweiz und kann alle rechtlichen Belange dieser Unternehmen abdecken.<br>Marcel verfügt über ein exzellentes Netzwerk und ist dank seiner internationalen Präsenz bestens mit den Bedürfnissen von Unternehmen und Privatpersonen vertraut, die in die Schweiz kommen.', 
@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'dedication_card_title': 'Engagement',
             'respect_card_title': 'Respekt',
             'foresight_card_title': 'Weitblick',
-            'dedication_card_description': 'Wir investieren voll und ganz in die Ambitionen unserer Kunden – wir treiben jedes Projekt mit unermüdlicher Energie und Liebe zum Detail voran, von der Konzeption bis zur Umsetzung und darüber hinaus.',
+            'dedication_card_description': 'Wir investieren uns voll und ganz in die Ziele unserer Kunden – und treiben jedes Projekt mit unermüdlicher Energie und höchster Sorgfalt vom Konzept bis zur Umsetzung und darüber hinaus voran.',
             'respect_card_description': 'Wir schaffen Vertrauen, indem wir unterschiedliche Perspektiven wertschätzen, Verpflichtungen einhalten und Kunden und Stakeholder stets mit Integrität und Einfühlungsvermögen begegnen.',
             'foresight_card_description': 'Wir blicken voraus, um neue Trends und potenzielle Hürden zu erkennen und entwickeln flexible, zukunftssichere Strategien, die unseren Kunden einen Vorsprung vor der Konkurrenz verschaffen.',
 
@@ -239,7 +239,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_title': 'Bauwesen & Stadtentwicklung',
             'industrial_card_title': 'Industrieausrüstung & Fertigung',
             'energy_card_title': 'Energie & erneuerbare Ressourcen',
-            'medical_card_title': 'Beratung im Gesundheitswesen und der Medizin',
+            'medical_card_title': 'Gesundheitswesen und Medizinische Beratung',
             'agricultural_card_title': 'Landwirtschaft & Agrartechnologie',
             'business_card_title': 'Geschäfts- & Investitionsberatung',
             'infrastructure_and_reconstruction_card_description': 'Wir unterstützen Regierungen und Organisationen beim Wiederaufbau und der Verbesserung der Infrastruktur mit Fokus auf nachhaltige Entwicklung und Resilienz. Unsere Expertise umfasst Projektmanagement, Bauingenieurwesen und Stadtplanung.',
@@ -247,7 +247,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_description': 'Wir arbeiten mit Interessengruppen zusammen, um städtische Räume zu gestalten und zu entwickeln, wobei wir Wachstum mit ökologischen und sozialen Aspekten in Einklang bringen. Unsere Expertise umfasst Stadtgestaltung, nachhaltiges Bauen und Bürgerbeteiligung.',
             'industrial_card_description': 'Wir unterstützen Hersteller dabei, Produktionsprozesse und Geräteeffizienz zu optimieren, um höhere Produktivität und Qualität zu erreichen. Unsere Expertise umfasst Prozessengineering, Geräteplanung und Fertigungsoptimierung.',
             'energy_card_description': 'Wir unterstützen den Übergang zu erneuerbaren Energiequellen mit Fokus auf nachhaltige Lösungen zur Reduzierung der Umweltbelastung. Unsere Expertise umfasst die Entwicklung von Energiestrategien, Implementierung erneuerbarer Technologien und Einhaltung gesetzlicher Vorschriften.',
-            'medical_card_description': 'Wir bieten maßgeschneiderte Beratungslösungen für die Weiterentwicklung der Gesundheitsversorgung und medizinischer Innovationen. Unsere Leistungen umfassen Systemintegration, Optimierung klinischer Abläufe, Einhaltung gesetzlicher Vorschriften und strategische Planung für Krankenhäuser, Kliniken und Life-Science-Unternehmen. Durch die Kombination aus fundierter Branchenexpertise und datenbasierten Erkenntnissen unterstützen wir Sie dabei, die Patientenergebnisse zu verbessern, Arbeitsabläufe zu optimieren und nachhaltige, zukunftsfähige Gesundheitssysteme aufzubauen.',
+            'medical_card_description': 'Wir bieten Lösungen, die zur Steigerung der Effizienz medizinischer Einrichtungen, zur Optimierung von Behandlungsprozessen und zur Einführung moderner Technologien im Gesundheitswesen beitragen. Unsere Expertise umfasst die Optimierung medizinischer Abläufe, die Integration digitaler Technologien sowie die Entwicklung innovativer Modelle für die Erbringung medizinischer Leistungen.',
             'agricultural_card_description': 'Wir bieten Lösungen zur Steigerung der landwirtschaftlichen Produktivität und Nachhaltigkeit durch Technologie und Innovation. Unsere Expertise umfasst die Optimierung landwirtschaftlicher Prozesse, Technologieintegration und nachhaltige Anbaumethoden.',
             'business_card_description': 'Wir beraten Unternehmen und Investoren bei fundierten Entscheidungen und bieten Einblicke in Markttrends und strategische Möglichkeiten. Unsere Expertise umfasst Marktanalysen, Entwicklung von Investitionsstrategien und Risikobewertungen.',
 
@@ -261,7 +261,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Contacts
             'contacts_title': 'Kontakte',
-            'contacts_subtitle': 'Kontaktieren Sie uns, um weitere Informationen zu erhalten',
+            'contacts_subtitle': 'Kontaktieren Sie uns für weitere Informationen',
             'questions_title': 'Sie haben eine Frage zu unseren Leistungen oder zu Ihrer Organisation?<br>Nehmen Sie Kontakt mit uns auf – wir freuen uns auf Ihre Nachricht und treffen uns gerne zu einem ersten kostenlosen Beratungsgespräch mit Ihnen'
 
         },
@@ -299,12 +299,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Main texts
             'hero_title': 'OCMD Consulting AG<br><br>Стратегічний консалтинг для доступу до ринку та розширення бізнесу',
-            'lead_text_index': 'Ви швейцарська компанія, яка розглядає можливості в Україні, чи український бізнес, що планує розширити свою присутність у Швейцарії?<br>OCMD Consulting AG — ваш стратегічний партнер для обох ринків',
-            'description1': 'Як швейцарська консалтингова фірма з глибоким досвідом роботи в Україні, ми супроводжуємо швейцарський бізнес у процесі виходу на ринок, розширення та зростання в одній з найдинамічніших економік Європи. Водночас ми підтримуємо українські компанії, які прагнуть відкрити офіси, побудувати партнерські відносини та впевнено орієнтуватися в швейцарському законодавстві.',
+            'lead_text_index': 'Ви — швейцарська компанія, яка шукає нові можливості на українському ринку? Або український бізнес, який прагне вийти на ринок Швейцарії?<br><b>OCMD Consulting AG — ваш стратегічний партнер для обох ринків</b>',
+            'description1': 'Ми знаємо обидва ринки зсередини. Завдяки глибокій експертизі, місцевим контактам та багаторічному досвіду ми супроводжуємо ваш бізнес на всіх етапах міжнародного розвитку — від першої ідеї до успішної реалізації.',
             'description2': 'Ми вже допомогли зростаючій кількості клієнтів з обох сторін:',
-            'description3': 'Швейцарія → Україна: аналіз ринку, пошук партнерів, дотримання нормативних вимог та налаштування операційної діяльності',
-            'description4': 'Україна → Швейцарія: реєстрація бізнесу, податкові та юридичні консультації, розвиток локальної мережі та стратегії виходу на ринок',
-            'description5': 'Поєднуючи практичні знання, надійні локальні мережі та індивідуальні рішення, ми робимо вашу транскордонну експансію плавною, безпечною та стратегічно обґрунтованою. Дозвольте нам допомогти вам скористатися унікальними можливостями, які пропонують Швейцарія та Україна — разом.',
+            'description3': '<b>Наші послуги для швейцарських компаній в Україні:</b><ul><li style="margin-left: 30px; list-style: circle;">Аналіз ринку та пошук надійних партнерів</li><li style="margin-left: 30px; list-style: circle;">Консультації з юридичних і регуляторних питань</li><li style="margin-left: 30px; list-style: circle;">Організація операційної діяльності та запуск проєктів</li></ul>',
+            'description4': '<b>Наші послуги для українських компаній у Швейцарії:</b><ul><li style="margin-left: 30px; list-style: circle;">Реєстрація компаній та відкриття офісів</li><li style="margin-left: 30px; list-style: circle;">Податкові та правові консультації</li><li style="margin-left: 30px; list-style: circle;">Побудова локальних бізнес-мереж</li><li style="margin-left: 30px; list-style: circle;">Стратегії виходу на ринок та розвитку</li></ul>',
+            'description5': '<b>Чому варто обрати OCMD Consulting AG?</b><br>Ми не пропонуємо стандартних рішень — ми створюємо індивідуальні стратегії, які відповідають саме вашим цілям і потребам. Наш досвід, мережа контактів та глибоке розуміння обох ринків допоможуть вам уникнути ризиків і досягти результату швидше.<br><br><b>Відкрийте нові можливості разом з нами — у Швейцарії та Україні.</b>',
             'values_vision_subtitle': 'У OCMD Consulting AG наша мета — сприяти довгостроковому зростанню та партнерству.',
 
             // Vision & Values section
@@ -316,17 +316,17 @@ document.addEventListener('DOMContentLoaded', function() {
             'foresight_card_description': 'Ми дивимося вперед, щоб виявляти нові тенденції та потенційні перешкоди, розробляючи гнучкі, перспективні стратегії, які дозволяють нашим клієнтам бути на крок попереду конкурентів.',
             
             // Founders
-            'meet_our_founders': 'Зустрічайте наших засновників',
+            'meet_our_founders': 'Знайомтеся з нашими засновниками',
             'founder1_name': 'Олена Чернеженко',
             'founder1_title': 'Співзасновниця та генеральний директор',
-            'founder1_bio': 'Олена Чернеженко — досвідчений міжнародний керівник проектів, яка очолює стратегічні ініціативи щодо виходу на ринок та співпраці між Швейцарією та Україною. Маючи майже 20 років досвіду роботи у Посольстві Швейцарії в Києві, вона зараз контролює високоефективні проекти у ключових секторах, включаючи інфраструктуру, охорону здоров\'я, сільське господарство, будівництво, залізниці та мобільність, закладаючи основу для довгострокових державно-приватних партнерств та безперебійного транскордонного розширення.<br>Поєднуючи глибоке розуміння динаміки українського ринку з потужною мережею державних та промислових зацікавлених сторін, Олена допомагає швейцарським та міжнародним клієнтам у створенні або розширенні їхньої діяльності в Україні. Її стратегічне бачення, орієнтований на рішення підхід та непохитне прагнення до сталого розвитку роблять OCMD Consulting AG партнером вибору для складних міжнародних проектів.', 
+            'founder1_bio': 'Олена Чернеженко — досвідчений міжнародний керівник проектів, яка очолює стратегічні ініціативи щодо виходу на ринок та співпраці між Швейцарією та Україною. Маючи майже 20 років досвіду роботи у Посольстві Швейцарії в Києві, вона зараз контролює високоефективні проекти у ключових секторах, включаючи інфраструктуру, охорону здоров\'я, сільське господарство, будівництво, залізничну сферу та мобільність, закладаючи основу для довгострокових державно-приватних партнерств та безперебійного транскордонного розширення.<br>Поєднуючи глибоке розуміння динаміки українського ринку з потужною мережею державних та промислових зацікавлених сторін, Олена допомагає швейцарським та міжнародним клієнтам у створенні або розширенні їхньої діяльності в Україні. Її стратегічне бачення, орієнтований на рішення підхід та непохитне прагнення до сталого розвитку роблять OCMD Consulting AG партнером вибору для складних міжнародних проектів.', 
             'founder2_name': 'Марсель Хостеттлер',
             'founder2_title': 'Співзасновник',
             'founder2_bio': 'Марсель Хостеттлер — швейцарський адвокат та провідний експерт у сфері права фінансового ринку та міжнародного регулювання. Він є засновником та керуючим партнером <a href="https://www.allegra.law/"><b><u>Allegra LAW</u></b></a>, швейцарської юридичної фірми, що спеціалізується на праві фінансового ринку/цифрових активах, корпоративному праві та злиттях та поглинаннях, а також судових процесах.<br>Марсель та його команда консультують провідні установи фінансового ринку з усього світу. Марсель Хостеттлер особливо сильний у допомозі іноземним компаніям у створенні операцій у Швейцарії та може задовольнити всі юридичні потреби цих компаній.<br>Марсель має чудову мережу контактів і, завдяки своїй міжнародній присутності, добре знайомий з потребами компаній та приватних осіб, які приїжджають до Швейцарії.', 
 
             // Expertise texts
             'expertise_title': 'Наша Експертиза',
-            'expertise_subtitle': 'Спеціалізовані знання, які забезпечують результати',
+            'expertise_subtitle': 'Професійна експертиза, що приносить реальні результати',
             'lead_text_expertise': 'У OCMD Consulting AG ми поєднуємо галузеві знання з досвідом, щоб надавати індивідуальні рішення, які відповідають вашим унікальним викликам і можливостям',
             'industy_expertise_title': 'Експертиза в галузі інфраструктури та промисловості',
             'sector_specific_expertise_title': 'Галузева експертиза',
@@ -335,17 +335,17 @@ document.addEventListener('DOMContentLoaded', function() {
             'construction_card_title': 'Будівництво та міський розвиток',
             'industrial_card_title': 'Промислове обладнання та виробництво',
             'energy_card_title': 'Енергетика та відновлювані джерела енергії',
-            'medical_card_title': 'Консалтинг у сфері охорони здоров\'я та медицини',
+            'medical_card_title': 'Охорона здоров’я та медичний консалтинг',
             'agricultural_card_title': 'Сільське господарство та агротехнології',
-            'business_card_title': 'Бізнес- та інвестиційне консультування',
+            'business_card_title': 'Бізнес та інвестиційний консалтинг',
             'infrastructure_and_reconstruction_card_description': 'Ми допомагаємо урядам та організаціям відновлювати та покращувати інфраструктуру, зосереджуючися на сталому розвитку та стійкості. Наша експертиза включає управління проектами, будівельне інженерство та міське планування.',
             'railway_card_description': 'Ми надаємо інноваційні транспортні рішення, покращуючи залізничні системи та мобільні послуги для підвищення з’єднаності та ефективності. Наша експертиза включає інтеграцію систем, оптимізацію операцій та планування сталого транспорту.',
             'construction_card_description': 'Ми співпрацюємо з зацікавленими сторонами для проектування та розвитку міських просторів, поєднуючи зростання з екологічними та соціальними аспектами. Наша експертиза включає міське проектування, сталу забудову та залучення громади.',
-            'industrial_card_description': 'Ми підтримуємо виробників у оптимізації виробничих процесів та ефективності обладнання, прагнучи до більшої продуктивності та якості. Наша експертиза включає процесне інженерство, проектування обладнання та оптимізацію виробництва.',
+            'industrial_card_description': 'Ми допомагаємо виробникам оптимізувати виробничі процеси та ефективність обладнання з метою підвищення продуктивності та якості. Наша експертиза охоплює інженерію процесів, проєктування обладнання та оптимізацію виробництва.',
             'energy_card_description': 'Ми допомагаємо в переході до відновлюваних джерел енергії, зосереджуючись на сталих рішеннях, які зменшують вплив на навколишнє середовище. Наша експертиза включає розробку енергетичних стратегій, впровадження відновлюваних технологій та дотримання нормативно-правових актів.',
-            'medical_card_description': 'Ми пропонуємо індивідуальні консалтингові рішення для розвитку медичного обслуговування та медичних інновацій. Наші послуги охоплюють системну інтеграцію, оптимізацію клінічних операцій, дотримання нормативних вимог та стратегічне планування для лікарень, клінік та організацій, що займаються науками про життя. Поєднуючи глибокий галузевий досвід з аналітичними даними, ми допомагаємо вам покращити результати лікування пацієнтів, оптимізувати робочі процеси та створювати стійкі, готові до майбутнього системи охорони здоров\'я.',
+            'medical_card_description': 'Ми пропонуємо рішення, що сприяють підвищенню ефективності медичних закладів, оптимізації процесів лікування та впровадженню сучасних технологій у сфері охорони здоров’я. Наша експертиза охоплює оптимізацію медичних процесів, впровадження цифрових технологій та розвиток інноваційних моделей надання медичних послуг.',
             'agricultural_card_description': 'Ми надаємо рішення, які підвищують продуктивність та сталий розвиток сільського господарства через технології та інновації. Наша експертиза включає оптимізацію сільськогосподарських процесів, інтеграцію технологій та практики сталого землеробства.',
-            'business_card_description': 'Ми консультуємо бізнеси та інвесторів щодо обґрунтованих рішень, надаючи інформацію про ринкові тенденції та стратегічні можливості. Наша експертиза включає аналіз ринку, розробку інвестиційних стратегій та оцінку ризиків.',
+            'business_card_description': 'Відкривайте нові ринкові можливості з нашою експертизою. Ми допомагаємо бізнесу та інвесторам приймати стратегічно правильні рішення, аналізуючи ринкові тенденції та перспективи зростання. Наші послуги включають глибоку аналітику ринку, розробку ефективних інвестиційних стратегій та професійну оцінку ризиків для впевненого розвитку вашого бізнесу.',
 
             // Partners and Clients
             'partners_and_clients_title': 'Наші партнери та клієнти',
@@ -474,7 +474,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 title.setAttribute('data-i18n', 'expertise_subtitle');
             } else if (title.textContent.includes('Discover the trusted organizations and valued clients we collaborate with.')) {
                 title.setAttribute('data-i18n', 'partners_and_clients_subtitle');
-            } else if (title.textContent.includes('Contact us to get more information.')) {
+            } else if (title.textContent.includes('Contact us to get more information')) {
                 title.setAttribute('data-i18n', 'contacts_subtitle');
             }
         });
@@ -512,9 +512,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 title.setAttribute('data-i18n', 'industrial_card_description');
             } else if (title.textContent.includes('We assist in transitioning to renewable energy sources, focusing on sustainable')) {
                 title.setAttribute('data-i18n', 'energy_card_description');
-            } else if (title.textContent.includes('We develop and implement medical technologies that enhance patient care')) {
+            } else if (title.textContent.includes('We offer solutions that help improve the efficiency of medical institutions, optimize treatment')) {
                 title.setAttribute('data-i18n', 'medical_card_description');
-            } else if (title.textContent.includes('We deliver tailored consulting solutions to advance healthcare delivery and medical innovation. Our services span system integration')) {
+            } else if (title.textContent.includes('We provide solutions that enhance agricultural productivity and sustainability through technology')) {
                 title.setAttribute('data-i18n', 'agricultural_card_description');
             } else if (title.textContent.includes('We guide businesses and investors in making informed decisions')) {
                 title.setAttribute('data-i18n', 'business_card_description');

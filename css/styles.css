@@ -374,7 +374,7 @@ img {
 
 .about-content-description ul,
 .about-content-description li {
-  list-style: circle;
+  list-style: inside;
   padding-left: 20px;
 }
 
