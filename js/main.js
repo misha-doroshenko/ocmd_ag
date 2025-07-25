@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'description2': '<b>Wir haben bereits zahlreiche Kunden auf beiden Seiten erfolgreich begleitet:</b>',
             'description3': '<b>Schweiz → Ukraine:</b><br>Marktanalyse, Partnersuche, Einhaltung regulatorischer Anforderungen und Aufbau der operativen Strukturen',
             'description4': '<b>Ukraine → Schweiz:</b><br>Firmengründung, steuerliche und rechtliche Beratung, Netzwerkaufbau sowie Markteintrittsstrategien',
-            'description5': 'Dank unserer fundierten Marktkenntnisse, vertrauensvollen lokalen Netzwerke und massgeschneiderten Lösungen gestalten wir Ihre grenzüberschreitende Expansion sicher, effizient und zukunftsorientiert.<br><br><b>Lassen Sie uns gemeinsam die einzigartigen Chancen nutzen, die die Schweiz und die Ukraine bieten.</b>',
+            'description5': 'Dank unserer fundierten Marktkenntnisse, vertrauensvollen lokalen Netzwerke und massgeschneiderten Lösungen gestalten wir Ihre grenzüberschreitende Expansion sicher, effizient und zukunftsorientiert.<br><br><b>Lassen Sie uns gemeinsam die einzigartigen Chancen nutzen, die Schweiz und die Ukraine bieten.</b>',
             'values_vision_subtitle': 'Bei OCMD Consulting AG ist es unser Ziel, langfristiges Wachstum und Partnerschaften zu fördern.',
             
             // Founders
